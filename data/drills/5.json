@@ -1,0 +1,22 @@
+[
+ {"t": "mc", "q": "Success depends ___ hard work.", "o": ["of", "on", "in", "from"], "a": 1, "e": "depend on."},
+ {"t": "mc", "q": "She is married ___ a lawyer.", "o": ["with", "to", "by", "at"], "a": 1, "e": "married to."},
+ {"t": "mc", "q": "I'm thinking ___ changing my job.", "o": ["in", "about", "on", "to"], "a": 1, "e": "think about (or of) + -ing."},
+ {"t": "mc", "q": "The course consists ___ ten modules.", "o": ["in", "of", "on", "by"], "a": 1, "e": "consist of."},
+ {"t": "mc", "q": "He is very good ___ mathematics.", "o": ["in", "at", "on", "for"], "a": 1, "e": "good at."},
+ {"t": "mc", "q": "We arrived ___ the airport two hours early.", "o": ["to", "at", "in", "on"], "a": 1, "e": "arrive at a building or point; never 'arrive to'."},
+ {"t": "mc", "q": "Many people are worried ___ climate change.", "o": ["for", "about", "of", "with"], "a": 1, "e": "worried about."},
+ {"t": "gap", "q": "I'm interested ___ studying abroad. (one preposition)", "a": ["in"], "e": "interested in."},
+ {"t": "gap", "q": "She dreams ___ becoming a surgeon. (one preposition)", "a": ["of", "about"], "e": "dream of / about, not 'dream with'."},
+ {"t": "gap", "q": "My results are the same ___ last year. (one word)", "a": ["as"], "e": "the same as, not 'the same than / that'."},
+ {"t": "gap", "q": "This city is very different ___ my home town. (one preposition)", "a": ["from", "to"], "e": "different from (also 'different to' in British English)."},
+ {"t": "gap", "q": "The new law resulted ___ higher prices for consumers. (one preposition)", "a": ["in"], "e": "result in + effect (result from + cause)."},
+ {"t": "gap", "q": "He insisted ___ paying for dinner. (one preposition)", "a": ["on"], "e": "insist on + -ing."},
+ {"t": "spot", "q": "It depends of the weather tomorrow.", "a": ["of"], "fix": "It depends on the weather tomorrow.", "e": "depend on."},
+ {"t": "spot", "q": "She is responsible of the marketing department.", "a": ["of"], "fix": "She is responsible for the marketing department.", "e": "responsible for."},
+ {"t": "spot", "q": "We need to discuss about the new project.", "a": ["about"], "fix": "We need to discuss the new project.", "e": "'Discuss' takes no preposition."},
+ {"t": "spot", "q": "I am agree with your opinion.", "a": ["am"], "fix": "I agree with your opinion.", "e": "'Agree' is a verb: I agree."},
+ {"t": "tr", "q": "I have been waiting you for an hour.", "hint": "Correct the sentence.", "a": ["I have been waiting for you for an hour."], "e": "wait for someone."},
+ {"t": "tr", "q": "She explained me the problem.", "hint": "Correct the sentence.", "a": ["She explained the problem to me."], "e": "explain something to someone."},
+ {"t": "tr", "q": "I look forward to hear from you.", "hint": "Correct the sentence.", "a": ["I look forward to hearing from you."], "e": "'To' is a preposition here, so the verb takes -ing."}
+]

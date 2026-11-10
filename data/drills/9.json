@@ -1,0 +1,22 @@
+[
+ {"t": "mc", "q": "The bridge ___ in 1932.", "o": ["built", "was built", "has built", "is building"], "a": 1, "e": "Past simple passive: was + past participle."},
+ {"t": "mc", "q": "English ___ all over the world.", "o": ["speaks", "is spoken", "is speaking", "spoke"], "a": 1, "e": "Present simple passive (Spanish: se habla)."},
+ {"t": "mc", "q": "The results ___ next week.", "o": ["will announce", "will be announced", "are announcing", "announced"], "a": 1, "e": "Future passive: will be + participle."},
+ {"t": "mc", "q": "The road ___ at the moment.", "o": ["is repairing", "is being repaired", "repairs", "has repaired"], "a": 1, "e": "Present continuous passive: is being + participle."},
+ {"t": "mc", "q": "I ___ in Cali.", "o": ["born", "was born", "am born", "have born"], "a": 1, "e": "Always 'was / were born'."},
+ {"t": "mc", "q": "The data ___ from 2,000 households.", "o": ["collected", "were collected", "have collected", "were collecting"], "a": 1, "e": "The data did not collect anything: passive."},
+ {"t": "mc", "q": "It ___ that exercise reduces stress.", "o": ["believes", "is believed", "is believing", "has believed"], "a": 1, "e": "Impersonal passive: It is believed that... (se cree que)."},
+ {"t": "gap", "q": "The letter ___ (send) yesterday.", "a": ["was sent"], "e": "Past simple passive."},
+ {"t": "gap", "q": "A new hospital ___ (build) in the city centre at the moment.", "a": ["is being built"], "e": "Present continuous passive."},
+ {"t": "gap", "q": "The beans ___ (roast) before they are ground.", "a": ["are roasted"], "e": "Process description: present simple passive."},
+ {"t": "gap", "q": "Many jobs ___ (lose) since the factory closed.", "a": ["have been lost"], "e": "Present perfect passive: have been + participle."},
+ {"t": "gap", "q": "The problem must ___ (solve) immediately.", "a": ["be solved"], "e": "Modal passive: must be + participle."},
+ {"t": "gap", "q": "The Mona Lisa ___ (paint) by Leonardo da Vinci.", "a": ["was painted"], "e": "Past simple passive + by."},
+ {"t": "spot", "q": "The house was build in 1990.", "a": ["build"], "fix": "The house was built in 1990.", "e": "The passive needs the past participle: built."},
+ {"t": "spot", "q": "The meeting has cancelled because of the storm.", "a": ["has", "cancelled"], "fix": "The meeting has been cancelled because of the storm.", "e": "Perfect passive needs 'been'."},
+ {"t": "spot", "q": "My wallet was stolen for a thief on the bus.", "a": ["for"], "fix": "My wallet was stolen by a thief on the bus.", "e": "The doer takes 'by'."},
+ {"t": "spot", "q": "The accident was happened at night.", "a": ["was"], "fix": "The accident happened at night.", "e": "'Happen' is intransitive: no passive."},
+ {"t": "tr", "q": "Somebody stole my bike.", "hint": "Passive. Begin: My bike ...", "a": ["My bike was stolen.", "My bike was stolen by somebody.", "My bike was stolen by someone."], "e": "Unknown doer: leave out 'by somebody'."},
+ {"t": "tr", "q": "They are building a new school.", "hint": "Passive. Begin: A new school ...", "a": ["A new school is being built.", "A new school is being built by them."], "e": "is being + past participle."},
+ {"t": "tr", "q": "People say that he is very rich.", "hint": "Passive. Begin: He is said ...", "a": ["He is said to be very rich."], "e": "Subject + is said + to-infinitive."}
+]

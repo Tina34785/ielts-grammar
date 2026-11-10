@@ -1,0 +1,22 @@
+[
+ {"t": "mc", "q": "Can you give me ___ about universities in the UK?", "o": ["an advice", "some advice", "some advices", "advices"], "a": 1, "e": "Advice is uncountable: no a/an, no plural."},
+ {"t": "mc", "q": "There isn't ___ traffic in the city centre on Sundays.", "o": ["many", "much", "few", "a"], "a": 1, "e": "Traffic is uncountable: much."},
+ {"t": "mc", "q": "The teacher gave us too ___ homework.", "o": ["many", "much", "few", "several"], "a": 1, "e": "Homework is uncountable: much."},
+ {"t": "mc", "q": "___ people attended the lecture than we expected.", "o": ["Less", "Fewer", "Little", "Much"], "a": 1, "e": "People is countable: fewer."},
+ {"t": "mc", "q": "We bought some new ___ for the living room.", "o": ["furnitures", "furniture", "a furniture", "pieces furniture"], "a": 1, "e": "Furniture is uncountable."},
+ {"t": "mc", "q": "Recent research ___ that sleep improves memory.", "o": ["show", "shows", "are showing", "have shown"], "a": 1, "e": "Research is uncountable, so the verb is singular."},
+ {"t": "mc", "q": "I have very ___ time, so I can't help you today.", "o": ["little", "few", "a few", "many"], "a": 0, "e": "Time is uncountable; 'little' = not enough."},
+ {"t": "gap", "q": "How ___ (much / many) money do you spend on rent?", "a": ["much"], "e": "Money is uncountable."},
+ {"t": "gap", "q": "How ___ (much / many) students are there in your class?", "a": ["many"], "e": "Students is a countable plural."},
+ {"t": "gap", "q": "She gave me two useful ___ of advice.", "a": ["pieces", "bits"], "e": "Count uncountable nouns with 'piece(s) of'."},
+ {"t": "gap", "q": "The news ___ (be) very bad yesterday.", "a": ["was"], "e": "News is singular."},
+ {"t": "gap", "q": "There are only a ___ (few / little) tickets left.", "a": ["few"], "e": "Tickets is countable: a few."},
+ {"t": "gap", "q": "He doesn't have much ___ (experience / experiences) in marketing.", "a": ["experience"], "e": "Experience as general skill is uncountable."},
+ {"t": "spot", "q": "She gave me many informations about the course.", "a": ["many", "informations"], "fix": "She gave me a lot of information about the course.", "e": "Information is uncountable: no plural, no 'many'."},
+ {"t": "spot", "q": "We need to buy new equipments for the laboratory.", "a": ["equipments"], "fix": "We need to buy new equipment for the laboratory.", "e": "Equipment is uncountable."},
+ {"t": "spot", "q": "I have a good news for you.", "a": ["a"], "fix": "I have some good news for you.", "e": "News is uncountable: no 'a'."},
+ {"t": "spot", "q": "The government should create more works for young people.", "a": ["works"], "fix": "The government should create more jobs for young people.", "e": "Work is uncountable; the countable word is 'job'."},
+ {"t": "tr", "q": "Can I ask you an advice?", "hint": "Correct the sentence.", "a": ["Can I ask you for some advice?", "Can I ask you for advice?", "Can I ask for some advice?", "Can I ask for advice?", "Can I ask you for a piece of advice?"], "e": "ask (someone) for advice; advice is uncountable."},
+ {"t": "tr", "q": "There were less cars on the road today.", "hint": "Correct the sentence.", "a": ["There were fewer cars on the road today."], "e": "Fewer + countable plural."},
+ {"t": "tr", "q": "Recent researches show interesting results.", "hint": "Correct the sentence.", "a": ["Recent research shows interesting results.", "Recent studies show interesting results."], "e": "Research is uncountable (singular verb), or use 'studies'."}
+]

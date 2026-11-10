@@ -1,0 +1,22 @@
+[
+ {"t": "mc", "q": "When we arrived at the station, the train ___.", "o": ["already left", "had already left", "has already left", "is already leaving"], "a": 1, "e": "The train left before we arrived: past perfect."},
+ {"t": "mc", "q": "While I ___ dinner, the phone rang.", "o": ["cooked", "was cooking", "had cooked", "have cooked"], "a": 1, "e": "Action in progress interrupted by another: past continuous."},
+ {"t": "mc", "q": "She was exhausted because she ___ all night.", "o": ["was working", "has worked", "had been working", "works"], "a": 2, "e": "A long activity before a past moment: past perfect continuous."},
+ {"t": "mc", "q": "He opened the door, ___ his coat and sat down.", "o": ["took off", "had taken off", "was taking off", "has taken off"], "a": 0, "e": "Events in sequence: past simple."},
+ {"t": "mc", "q": "By 1990, the population ___ to five million.", "o": ["had grown", "has grown", "is growing", "grows"], "a": 0, "e": "'By' + a past date: past perfect."},
+ {"t": "mc", "q": "I ___ snow before I moved to Canada.", "o": ["have never seen", "had never seen", "was never seeing", "never see"], "a": 1, "e": "Experience up to a past moment: past perfect."},
+ {"t": "mc", "q": "This time last year, I ___ for my final exams.", "o": ["studied", "had studied", "was studying", "have studied"], "a": 2, "e": "In progress at a specific past moment: past continuous."},
+ {"t": "gap", "q": "I didn't recognise him because he ___ (grow) a beard.", "a": ["had grown"], "e": "The beard grew before I saw him: past perfect."},
+ {"t": "gap", "q": "The streets were wet because it ___ (rain) all morning.", "a": ["had been raining", "had rained"], "e": "Earlier activity that explains a past situation."},
+ {"t": "gap", "q": "While they ___ (walk) home, it started to snow.", "a": ["were walking"], "e": "Background action: past continuous."},
+ {"t": "gap", "q": "When I got to the cinema, I realised I ___ (leave) my ticket at home.", "a": ["had left", "'d left"], "e": "Leaving the ticket happened first: past perfect."},
+ {"t": "gap", "q": "In 2005 the city ___ (build) its first metro line.", "a": ["built"], "e": "A single finished event with a date: past simple."},
+ {"t": "gap", "q": "When I was a child, I ___ (go) to my grandmother's house every Sunday.", "a": ["went", "used to go", "would go"], "e": "Past habit: past simple, 'used to' or 'would'. Not past continuous."},
+ {"t": "spot", "q": "When I arrived, they already ate all the food.", "a": ["ate"], "fix": "When I arrived, they had already eaten all the food.", "e": "Eating finished before I arrived: past perfect."},
+ {"t": "spot", "q": "I was knowing the answer, but I stayed silent.", "a": ["was", "knowing"], "fix": "I knew the answer, but I stayed silent.", "e": "'Know' is a state verb: no continuous form."},
+ {"t": "spot", "q": "She told me that she has lost her passport the day before.", "a": ["has"], "fix": "She told me that she had lost her passport the day before.", "e": "Reported speech about an earlier event: past perfect."},
+ {"t": "spot", "q": "Before I came to London, I never used the underground.", "a": ["never", "used"], "fix": "Before I came to London, I had never used the underground.", "e": "Experience up to a past moment: had never + participle."},
+ {"t": "tr", "q": "First the film started. Then we arrived.", "hint": "Use the past perfect. Begin: When we arrived, the film ...", "a": ["When we arrived, the film had started.", "When we arrived, the film had already started."], "e": "The earlier action takes the past perfect."},
+ {"t": "tr", "q": "He studied for six hours. Then he fell asleep.", "hint": "Begin: He fell asleep after he ...", "a": ["He fell asleep after he had studied for six hours.", "He fell asleep after he had been studying for six hours.", "He fell asleep after he studied for six hours."], "e": "After + past perfect shows the earlier action."},
+ {"t": "tr", "q": "I was reading. In the middle of this, the lights went out.", "hint": "Join with 'when'. Begin: I was ...", "a": ["I was reading when the lights went out."], "e": "Past continuous (background) + when + past simple (event)."}
+]

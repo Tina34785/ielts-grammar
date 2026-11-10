@@ -1,0 +1,22 @@
+[
+ {"t": "mc", "q": "If you heat ice, it ___.", "o": ["melts", "will melting", "would melt", "melted"], "a": 0, "e": "Zero conditional (always true): present + present."},
+ {"t": "mc", "q": "If it rains tomorrow, we ___ at home.", "o": ["stayed", "will stay", "would stay", "had stayed"], "a": 1, "e": "First conditional: if + present, will."},
+ {"t": "mc", "q": "If I ___ rich, I would travel the world.", "o": ["am", "will be", "were", "would be"], "a": 2, "e": "Second conditional: if + past ('were' for all persons)."},
+ {"t": "mc", "q": "If she had studied harder, she ___ the exam.", "o": ["would pass", "will pass", "would have passed", "had passed"], "a": 2, "e": "Third conditional: would have + past participle."},
+ {"t": "mc", "q": "If I ___ you, I would accept the offer.", "o": ["am", "were", "would be", "had been"], "a": 1, "e": "Advice: If I were you..."},
+ {"t": "mc", "q": "Unless governments ___ now, the problem will get worse.", "o": ["don't act", "act", "will act", "would act"], "a": 1, "e": "'Unless' = if not, so the verb is positive and present."},
+ {"t": "mc", "q": "If I had taken that job, I ___ in London now.", "o": ["will live", "would be living", "had lived", "lived"], "a": 1, "e": "Mixed conditional: past condition, present result."},
+ {"t": "gap", "q": "If I ___ (have) more time, I would learn Italian.", "a": ["had"], "e": "Second conditional: if + past simple."},
+ {"t": "gap", "q": "If you ___ (not / hurry), you will miss the bus.", "a": ["do not hurry", "don't hurry"], "e": "First conditional: if + present simple."},
+ {"t": "gap", "q": "If we had left earlier, we ___ (not / miss) the flight.", "a": ["would not have missed", "wouldn't have missed"], "e": "Third conditional result: would (not) have + participle."},
+ {"t": "gap", "q": "Plants die if they ___ (not / get) enough water.", "a": ["do not get", "don't get"], "e": "Zero conditional: present in both parts."},
+ {"t": "gap", "q": "What would you do if you ___ (win) the lottery?", "a": ["won"], "e": "Second conditional: if + past simple."},
+ {"t": "gap", "q": "If I see him, I ___ (tell) him the news.", "a": ["will tell", "'ll tell"], "e": "First conditional result: will + verb."},
+ {"t": "spot", "q": "If I will have time tomorrow, I'll call you.", "a": ["will"], "fix": "If I have time tomorrow, I'll call you.", "e": "No 'will' in the if-clause."},
+ {"t": "spot", "q": "If I would be rich, I'd buy a house by the sea.", "a": ["would"], "fix": "If I were rich, I'd buy a house by the sea.", "e": "No 'would' in the if-clause: use the past simple."},
+ {"t": "spot", "q": "If she would have asked me, I'd have helped her.", "a": ["would"], "fix": "If she had asked me, I'd have helped her.", "e": "Third conditional: if + past perfect."},
+ {"t": "spot", "q": "Unless you don't study, you will fail the exam.", "a": ["don't"], "fix": "Unless you study, you will fail the exam.", "e": "'Unless' already means 'if not'."},
+ {"t": "tr", "q": "I don't have a car, so I take the bus.", "hint": "Second conditional. Begin: If I had a car, ...", "a": ["If I had a car, I would not take the bus.", "If I had a car, I'd not take the bus."], "e": "Unreal present: if + past, would + verb."},
+ {"t": "tr", "q": "She didn't study, so she failed.", "hint": "Third conditional. Begin: If she had studied, ...", "a": ["If she had studied, she would not have failed.", "If she had studied, she would have passed."], "e": "Unreal past: if + past perfect, would have + participle."},
+ {"t": "tr", "q": "Take an umbrella or you will get wet.", "hint": "Begin: If you don't ...", "a": ["If you don't take an umbrella, you will get wet."], "e": "First conditional: if + present, will."}
+]

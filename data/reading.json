@@ -1,0 +1,138 @@
+[
+ {
+  "id": "soil", "title": "The Hidden Life of Soil", "topic": "Science", "letters": true,
+  "paras": [
+   "Soil is often treated as little more than dirt, yet a single handful of healthy soil contains more living organisms than there are people on Earth. Most of these are bacteria and fungi, far too small to be seen without a microscope. Together they break down dead plants and animals, releasing nutrients that living plants can absorb through their roots. Without this constant recycling, forests and farms alike would soon run out of the materials they need to grow.",
+   "Fungi play an especially important role. Many species form long, thread-like networks that attach themselves to plant roots. The plant supplies the fungus with sugars produced by photosynthesis; in return, the fungus delivers water and minerals collected from a far wider area than the roots could reach alone. Some researchers have suggested that trees also use these networks to pass chemical warning signals to their neighbours, although the evidence for this remains a matter of debate.",
+   "Soil forms extremely slowly. Depending on the climate and the type of rock beneath it, producing a layer only a few centimetres deep can take several hundred years. It can, however, be lost very quickly. When land is left bare after harvesting, wind and heavy rain carry the fertile upper layer away. Intensive ploughing causes further damage, because it breaks apart fungal networks and exposes carbon stored in the ground to the air.",
+   "For this reason, a growing number of farmers are changing their methods. Some now plant 'cover crops' such as clover between harvests so that the ground is never left uncovered. Others have reduced ploughing or abandoned it completely. These techniques do not always increase the size of the harvest in the short term, and they may require new machinery. Nevertheless, supporters argue that protecting soil is far cheaper than attempting to replace it."
+  ],
+  "questions": [
+   {"t": "tfng", "q": "Most of the organisms living in soil can be seen with the naked eye.", "a": "F", "e": "Paragraph A: they are 'far too small to be seen without a microscope'."},
+   {"t": "tfng", "q": "Fungi receive sugars from the plants they are attached to.", "a": "T", "e": "Paragraph B: 'The plant supplies the fungus with sugars'."},
+   {"t": "tfng", "q": "Scientists agree that trees send warning signals through fungal networks.", "a": "F", "e": "Paragraph B: the evidence 'remains a matter of debate'."},
+   {"t": "tfng", "q": "Soil forms faster in tropical regions than in cold regions.", "a": "NG", "e": "Climate is said to affect the speed, but no regions are compared."},
+   {"t": "mc", "q": "According to paragraph C, intensive ploughing is harmful because it", "o": ["makes rainfall heavier.", "destroys fungal networks and releases stored carbon.", "removes the rock beneath the soil.", "prevents farmers from harvesting."], "a": 1, "e": "It 'breaks apart fungal networks and exposes carbon stored in the ground'."},
+   {"t": "mc", "q": "What does the writer say about the new farming methods?", "o": ["They immediately produce bigger harvests.", "They are cheaper than all traditional methods.", "They may not raise yields at first.", "Most farmers have rejected them."], "a": 2, "e": "They 'do not always increase the size of the harvest in the short term'."}
+  ]
+ },
+ {
+  "id": "press", "title": "The Printing Press and the Spread of Ideas", "topic": "History", "letters": true,
+  "paras": [
+   "Before the middle of the fifteenth century, every book in Europe was copied by hand. A single volume could take a trained scribe many months to complete, which made books so costly that only churches, universities and the very wealthy could afford them. Errors were also common: each time a text was copied, new mistakes were introduced and old ones were repeated.",
+   "This situation changed when Johannes Gutenberg, a goldsmith working in the German city of Mainz, developed a press that used movable metal type around 1450. Individual letters were cast in metal, arranged into pages, covered in ink and pressed onto paper. Once a page had been set, hundreds of identical copies could be produced in the time a scribe needed for one. The letters could then be rearranged and used again for the next page.",
+   "The consequences were felt quickly. Within fifty years, presses were operating in more than two hundred European towns, and millions of books had been printed. Prices fell, and reading gradually ceased to be a skill limited to priests and scholars. Printers, who needed to sell their products, began publishing in local languages rather than only in Latin, which helped to standardise spelling and grammar.",
+   "Not everyone welcomed the new technology. Religious and political authorities feared that they could no longer control which ideas reached the public, and many introduced systems of censorship. Some scholars complained that the market was being flooded with careless and inaccurate books. Yet attempts to restrict printing largely failed, because a banned text could simply be printed in another city and carried across the border."
+  ],
+  "questions": [
+   {"t": "mc", "q": "Choose the best heading for paragraph B.", "o": ["Resistance to a new invention", "How the new machine worked", "The high price of handwritten books", "Rapid growth and a wider readership", "Gutenberg's financial difficulties"], "a": 1, "e": "Paragraph B describes the process: letters cast, arranged, inked and pressed."},
+   {"t": "mc", "q": "Choose the best heading for paragraph C.", "o": ["Resistance to a new invention", "How the new machine worked", "The high price of handwritten books", "Rapid growth and a wider readership", "Gutenberg's financial difficulties"], "a": 3, "e": "Paragraph C: presses in 200 towns, falling prices, more readers."},
+   {"t": "mc", "q": "Choose the best heading for paragraph D.", "o": ["Resistance to a new invention", "How the new machine worked", "The high price of handwritten books", "Rapid growth and a wider readership", "Gutenberg's financial difficulties"], "a": 0, "e": "Paragraph D: censorship by authorities and complaints from scholars."},
+   {"t": "gap", "q": "Before printing, each new copy of a text introduced new ___.", "a": ["mistakes", "errors"], "e": "Paragraph A: 'new mistakes were introduced'."},
+   {"t": "gap", "q": "By profession, Gutenberg was a ___.", "a": ["goldsmith"], "e": "Paragraph B: 'a goldsmith working in the German city of Mainz'."},
+   {"t": "gap", "q": "To sell more books, printers began to publish in ___ as well as Latin.", "a": ["local languages"], "e": "Paragraph C: 'publishing in local languages rather than only in Latin'."}
+  ]
+ },
+ {
+  "id": "heat", "title": "Why Cities Are Warmer", "topic": "Science and society",
+  "paras": [
+   "On a summer night, the centre of a large city can be several degrees warmer than the countryside around it. This phenomenon, known as the urban heat island, was first described in the early nineteenth century by Luke Howard, an amateur meteorologist who compared temperature records from London with those from nearby villages. Today it affects almost every major city in the world.",
+   "The main cause is the replacement of vegetation with hard surfaces. Trees and grass cool the air as water evaporates from their leaves. Concrete, brick and asphalt, by contrast, absorb sunlight during the day and release it slowly as heat after dark. This is why the difference between city and country is usually greatest at night rather than at midday. Tall buildings make matters worse by blocking the wind and trapping warm air in the streets between them.",
+   "Human activity adds further heat. Vehicle engines, factories and air conditioners all release warmth into the streets. Air conditioning creates a particular problem: the hotter a city becomes, the more its residents rely on cooling systems, which in turn push more waste heat outdoors.",
+   "The effects are not merely uncomfortable. During heatwaves, higher night-time temperatures prevent the body from recovering, and hospital admissions rise, particularly among elderly people. In response, planners have begun to redesign urban spaces. Planting street trees is the most common measure, and painting roofs white so that they reflect sunlight has proved cheap and effective. Other cities are replacing dark road surfaces with paler materials or creating parks along rivers. Such projects take years to show results, but few experts doubt that they are necessary."
+  ],
+  "questions": [
+   {"t": "mc", "q": "Luke Howard identified the urban heat island by", "o": ["measuring the temperature of concrete.", "comparing records from London and nearby villages.", "studying hospital admissions during heatwaves.", "planting trees in city streets."], "a": 1, "e": "He 'compared temperature records from London with those from nearby villages'."},
+   {"t": "mc", "q": "The temperature difference is usually greatest at night because", "o": ["hard surfaces release stored heat after dark.", "traffic is heavier at night.", "the wind is stronger at night.", "air conditioners are switched off."], "a": 0, "e": "Concrete and asphalt 'release it slowly as heat after dark'."},
+   {"t": "mc", "q": "What problem with air conditioning does the writer describe?", "o": ["It is too expensive for most residents.", "It heats the outdoor air, which increases demand for cooling.", "It uses too much water.", "It stops working during heatwaves."], "a": 1, "e": "More cooling pushes 'more waste heat outdoors': a cycle."},
+   {"t": "gap", "q": "Plants cool the air when water ___ from their leaves.", "a": ["evaporates"], "e": "Paragraph 2: 'water evaporates from their leaves'."},
+   {"t": "gap", "q": "Tall buildings trap warm air because they block the ___.", "a": ["wind"], "e": "Paragraph 2: 'blocking the wind'."},
+   {"t": "gap", "q": "One cheap and effective measure is to paint ___ white.", "a": ["roofs"], "e": "Paragraph 4: 'painting roofs white'."}
+  ]
+ },
+ {
+  "id": "sleep", "title": "Teenagers and the Body Clock", "topic": "Health and society",
+  "paras": [
+   "Parents have long complained that teenagers stay up too late and cannot get out of bed in the morning. Research over the past three decades suggests that this behaviour is not simply laziness. During adolescence, the body's internal clock shifts: the hormone melatonin, which prepares the body for sleep, is released up to two hours later in the evening than it is in children or adults. As a result, many teenagers do not feel tired until close to midnight.",
+   "The difficulty is that school timetables rarely take this into account. A student who falls asleep at midnight and must wake at six receives far less than the eight to ten hours that doctors recommend for this age group. Over a school week, the shortfall accumulates into what researchers call a 'sleep debt'. Tired students find it harder to concentrate, remember less of what they are taught, and are more likely to report feeling anxious or depressed.",
+   "Several school districts have experimented with later start times. In one widely reported case in the American city of Seattle, secondary schools moved the start of the day by almost an hour. Researchers who monitored students found that they slept about half an hour longer each night, and that their grades in a science class improved slightly. Attendance also rose in a school located in a poorer neighbourhood.",
+   "Later starts are not easy to introduce, however. Bus timetables must be reorganised, after-school sports finish in the dark during winter, and working parents may be unable to adjust their own schedules. Critics also point out that teenagers could simply go to bed even later. So far, the evidence suggests that most do not, but long-term studies are still limited."
+  ],
+  "questions": [
+   {"t": "tfng", "q": "Melatonin is released later in the evening in teenagers than in adults.", "a": "T", "e": "Paragraph 1: 'up to two hours later ... than it is in children or adults'."},
+   {"t": "tfng", "q": "Doctors recommend at least eight hours of sleep for teenagers.", "a": "T", "e": "Paragraph 2: 'the eight to ten hours that doctors recommend'."},
+   {"t": "tfng", "q": "Teenagers who sleep too little tend to eat less healthy food.", "a": "NG", "e": "Concentration, memory and mood are mentioned; diet is not."},
+   {"t": "tfng", "q": "After the change in Seattle, students went to bed later and gained no extra sleep.", "a": "F", "e": "Paragraph 3: they 'slept about half an hour longer each night'."},
+   {"t": "gap", "q": "The sleep shortage that builds up during the week is called a sleep ___.", "a": ["debt"], "e": "Paragraph 2: 'sleep debt'."},
+   {"t": "gap", "q": "In a school in a poorer area of Seattle, ___ also improved.", "a": ["attendance"], "e": "Paragraph 3: 'Attendance also rose'."}
+  ]
+ },
+ {
+  "id": "salt", "title": "Salt: The Mineral That Shaped Trade", "topic": "History", "letters": true,
+  "paras": [
+   "Today salt is one of the cheapest items in any supermarket, so it is difficult to imagine that it was once valuable enough to be taxed, fought over and used as money. The reason lies in chemistry. Salt draws water out of food, which prevents the growth of the bacteria that cause it to rot. Before refrigeration, salting was one of the few reliable ways to keep meat and fish edible for months.",
+   "Because of this, any society that wished to feed an army, supply a ship or survive a long winter required salt in large quantities. Yet natural sources were unevenly distributed. Coastal communities could evaporate sea water in shallow pools, and some inland regions possessed salt mines or salty springs, but many areas had none at all. Salt therefore had to be moved over long distances, and routes developed specifically to carry it.",
+   "Governments soon recognised that a product everybody needed was an ideal source of income. In ancient China, the state controlled salt production and used the profits to finance its administration. In France, a deeply unpopular salt tax survived for several centuries and is often listed among the grievances that preceded the revolution of 1789. In both cases, high prices encouraged widespread smuggling.",
+   "Salt lost its economic power only in the nineteenth and twentieth centuries. Canning, and later refrigeration, offered alternative methods of preserving food, while new drilling techniques revealed enormous underground deposits. As supply increased, the price collapsed. Curiously, most salt produced today is not eaten at all: far more is used by the chemical industry and for melting ice on winter roads than ever reaches the kitchen table."
+  ],
+  "questions": [
+   {"t": "mc", "q": "Choose the best heading for paragraph B.", "o": ["A convenient source of government revenue", "Why salt mattered before modern technology", "The decline of a once-precious product", "Uneven supply and the need for transport", "The health risks of eating too much salt"], "a": 3, "e": "Paragraph B: sources 'unevenly distributed', so salt 'had to be moved over long distances'."},
+   {"t": "mc", "q": "Choose the best heading for paragraph C.", "o": ["A convenient source of government revenue", "Why salt mattered before modern technology", "The decline of a once-precious product", "Uneven supply and the need for transport", "The health risks of eating too much salt"], "a": 0, "e": "Paragraph C: state control in China and the salt tax in France."},
+   {"t": "mc", "q": "Choose the best heading for paragraph D.", "o": ["A convenient source of government revenue", "Why salt mattered before modern technology", "The decline of a once-precious product", "Uneven supply and the need for transport", "The health risks of eating too much salt"], "a": 2, "e": "Paragraph D: salt 'lost its economic power' and 'the price collapsed'."},
+   {"t": "tfng", "q": "Salt preserves food by removing water from it.", "a": "T", "e": "Paragraph A: 'Salt draws water out of food'."},
+   {"t": "tfng", "q": "The French salt tax was popular with ordinary people.", "a": "F", "e": "Paragraph C: 'a deeply unpopular salt tax'."},
+   {"t": "tfng", "q": "Roman soldiers received part of their wages in salt.", "a": "NG", "e": "The passage says salt was used as money but never mentions Rome or soldiers' pay."}
+  ]
+ },
+ {
+  "id": "remote", "title": "Remote Work and the Changing Neighbourhood", "topic": "Society",
+  "paras": [
+   "For most of the twentieth century, office workers followed the same daily pattern: they left residential districts in the morning, spent the day in a business district, and returned in the evening. Entire urban economies were organised around this movement. City-centre cafés, dry cleaners and sandwich shops depended on the weekday crowd, while suburbs were often quiet until the evening.",
+   "The rapid expansion of remote work in the early 2020s disturbed this arrangement. When large numbers of employees began working from home for at least part of the week, spending moved with them. Surveys in several countries recorded falling sales in central business districts and rising sales in local high streets. Suburban cafés that had once closed at lunchtime found themselves busy all day.",
+   "The change has not benefited everyone equally. Remote work is largely available to people in professional and administrative jobs; those employed in hospitals, factories, shops and transport must still travel. Some economists warn that this divides the workforce into two groups with very different daily lives. Others note that city-centre cleaners, security guards and restaurant staff have lost hours as offices emptied.",
+   "What happens to the office buildings themselves is still uncertain. A number of cities have encouraged owners to convert empty offices into apartments, which could ease housing shortages. Conversion is technically difficult, however, because office floors are deep and many rooms would have no windows. Meanwhile, some companies have reduced their space but improved its quality, hoping that attractive surroundings will persuade staff to return voluntarily. Whether or not the traditional five-day commute ever comes back, the assumption that work must happen in one central place has clearly been weakened."
+  ],
+  "questions": [
+   {"t": "mc", "q": "Under the traditional pattern, suburbs were", "o": ["busy throughout the day.", "often quiet during working hours.", "the main centres of business.", "without any shops."], "a": 1, "e": "Paragraph 1: 'suburbs were often quiet until the evening'."},
+   {"t": "mc", "q": "Surveys carried out after remote work expanded showed that", "o": ["spending fell everywhere.", "spending shifted from business districts to local streets.", "suburban cafés closed down.", "people stopped eating out."], "a": 1, "e": "Paragraph 2: falling sales in business districts, rising sales in local high streets."},
+   {"t": "mc", "q": "Why is it difficult to turn offices into apartments?", "o": ["Owners refuse to sell.", "The deep floors would leave many rooms without windows.", "Cities have banned it.", "There is too little demand for housing."], "a": 1, "e": "Paragraph 4: 'office floors are deep and many rooms would have no windows'."},
+   {"t": "tfng", "q": "Remote work is equally available to workers in all sectors.", "a": "F", "e": "Paragraph 3: it is 'largely available to people in professional and administrative jobs'."},
+   {"t": "tfng", "q": "Some service workers in city centres now work fewer hours.", "a": "T", "e": "Paragraph 3: cleaners, guards and restaurant staff 'have lost hours'."},
+   {"t": "tfng", "q": "Most remote workers say they are more productive at home.", "a": "NG", "e": "Productivity is never discussed."}
+  ]
+ },
+ {
+  "id": "birds", "title": "How Migrating Birds Find Their Way", "topic": "Science",
+  "paras": [
+   "Every autumn, billions of birds leave their breeding grounds and travel to warmer regions, sometimes covering thousands of kilometres. Many return the following spring to exactly the same wood or even the same nest. How they manage this without maps or instruments has puzzled scientists for centuries, and the answer appears to involve not one method but several.",
+   "The sun provides one guide. Experiments in the 1950s showed that caged starlings oriented themselves in the correct direction on sunny days but became confused when the sky was cloudy. Since the sun moves across the sky, a bird can only use it as a compass if it also knows the time; in other words, it must possess an accurate internal clock. Species that fly at night rely instead on the stars. Young birds raised in a planetarium learned to recognise the point around which the night sky rotates and treated it as north.",
+   "Birds can also detect the Earth's magnetic field, an ability humans lack entirely. How this sense works is not fully understood. One theory holds that light-sensitive molecules in the eye react to magnetism, so that the bird may in effect 'see' the field. Another points to tiny particles of iron-rich minerals found in the beaks of some species.",
+   "Finally, experience matters. Over familiar territory, birds follow rivers, coastlines and mountain ranges, and there is evidence that some seabirds recognise smells carried on the wind. Older birds generally navigate more accurately than young ones making their first journey. These systems support each other: when clouds hide the stars, the magnetic sense takes over. It is this combination that makes bird navigation so reliable."
+  ],
+  "questions": [
+   {"t": "tfng", "q": "Some birds return to the very nest they used the previous year.", "a": "T", "e": "Paragraph 1: 'the same wood or even the same nest'."},
+   {"t": "tfng", "q": "In the experiments, starlings oriented themselves just as well under cloudy skies.", "a": "F", "e": "Paragraph 2: they 'became confused when the sky was cloudy'."},
+   {"t": "tfng", "q": "Birds that migrate at night fly faster than those that migrate by day.", "a": "NG", "e": "Speed is not compared anywhere in the passage."},
+   {"t": "gap", "q": "To use the sun as a compass, a bird needs an accurate internal ___.", "a": ["clock"], "e": "Paragraph 2: 'an accurate internal clock'."},
+   {"t": "gap", "q": "According to one theory, molecules in the bird's ___ react to magnetism.", "a": ["eye", "eyes"], "e": "Paragraph 3: 'light-sensitive molecules in the eye'."},
+   {"t": "gap", "q": "Some seabirds may recognise ___ carried on the wind.", "a": ["smells"], "e": "Paragraph 4: 'recognise smells carried on the wind'."}
+  ]
+ },
+ {
+  "id": "bicycle", "title": "The Bicycle and Social Change", "topic": "History and society", "letters": true,
+  "paras": [
+   "The earliest bicycles of the 1860s and 1870s were neither comfortable nor safe. The best-known design, with an enormous front wheel and a tiny rear one, placed the rider high above the ground, and falls were frequent and sometimes fatal. Cycling was therefore regarded mainly as a sport for athletic young men with money to spare.",
+   "This changed in the 1880s with the arrival of the so-called safety bicycle. It had two wheels of equal size, a chain that drove the rear wheel and, soon afterwards, air-filled tyres that softened the ride. Mass production reduced the price year after year, and within a decade the bicycle had become an everyday object.",
+   "The social effects were considerable. For the first time, ordinary working people owned a private means of transport that cost almost nothing to run. They could live further from their workplace and travel to neighbouring towns in their free time. Women in particular gained a new independence, and since long, heavy skirts were impractical on a bicycle, cycling encouraged simpler and lighter clothing. Cyclists' organisations also campaigned for smoother roads, which later benefited the first motorists.",
+   "During the twentieth century the car pushed the bicycle aside in many wealthy countries, and city streets were redesigned around motor traffic. In recent decades, however, concerns about congestion, pollution and public health have brought it back. Cities such as Copenhagen and Amsterdam have built extensive networks of separated cycle lanes, and public bike-sharing schemes now operate in hundreds of cities. Electric bicycles have extended the range of journeys that people are willing to make."
+  ],
+  "questions": [
+   {"t": "mc", "q": "Choose the best heading for paragraph A.", "o": ["A machine for the brave and wealthy", "A return to favour", "A cheaper and safer design", "Wider freedom for ordinary people", "Why cycling never reached the countryside"], "a": 0, "e": "Paragraph A: dangerous, and for 'young men with money to spare'."},
+   {"t": "mc", "q": "Choose the best heading for paragraph C.", "o": ["A machine for the brave and wealthy", "A return to favour", "A cheaper and safer design", "Wider freedom for ordinary people", "Why cycling never reached the countryside"], "a": 3, "e": "Paragraph C: working people and women gained mobility and independence."},
+   {"t": "mc", "q": "Choose the best heading for paragraph D.", "o": ["A machine for the brave and wealthy", "A return to favour", "A cheaper and safer design", "Wider freedom for ordinary people", "Why cycling never reached the countryside"], "a": 1, "e": "Paragraph D: the car pushed it aside, but recent concerns 'have brought it back'."},
+   {"t": "mc", "q": "The safety bicycle differed from earlier designs because it had", "o": ["a larger front wheel.", "wheels of the same size and a chain drive.", "a small motor.", "wooden tyres."], "a": 1, "e": "Paragraph B: 'two wheels of equal size, a chain that drove the rear wheel'."},
+   {"t": "mc", "q": "According to the passage, cycling affected women's clothing by", "o": ["making skirts longer.", "encouraging simpler and lighter clothes.", "making clothes more expensive.", "ending the use of hats."], "a": 1, "e": "Paragraph C: 'cycling encouraged simpler and lighter clothing'."},
+   {"t": "mc", "q": "What did cyclists' organisations campaign for?", "o": ["Cheaper cars", "Better road surfaces", "Separated cycle lanes in the 1890s", "Free bicycles for workers"], "a": 1, "e": "Paragraph C: they 'campaigned for smoother roads'."}
+  ]
+ }
+]

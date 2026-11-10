@@ -1,0 +1,22 @@
+[
+ {"t": "mc", "q": "___ life in big cities can be stressful.", "o": ["The", "A", "– (no article)", "An"], "a": 2, "e": "Life in general: no article."},
+ {"t": "mc", "q": "She works as ___ engineer.", "o": ["a", "an", "the", "– (no article)"], "a": 1, "e": "Jobs take a/an; 'engineer' begins with a vowel sound."},
+ {"t": "mc", "q": "___ government should invest more in ___ education.", "o": ["The / –", "– / the", "A / an", "The / the"], "a": 0, "e": "'The government' (we know which one); education in general has no article."},
+ {"t": "mc", "q": "I bought a phone and a laptop. ___ laptop was very expensive.", "o": ["A", "The", "– (no article)", "An"], "a": 1, "e": "Second mention: now we know which laptop."},
+ {"t": "mc", "q": "She wants to study at ___ university abroad.", "o": ["an", "a", "– (no article)", "these"], "a": 1, "e": "'University' begins with a /j/ sound, so 'a'."},
+ {"t": "mc", "q": "___ Amazon is ___ longest river in South America.", "o": ["The / the", "– / the", "The / a", "An / the"], "a": 0, "e": "Rivers take 'the'; superlatives take 'the'."},
+ {"t": "mc", "q": "Most people agree that ___ health is more important than ___ money.", "o": ["the / the", "– / –", "a / a", "the / –"], "a": 1, "e": "Abstract and uncountable nouns in general: no article."},
+ {"t": "gap", "q": "She is ___ honest person. (a, an, the or –)", "a": ["an"], "e": "Silent h: vowel sound."},
+ {"t": "gap", "q": "___ unemployment is a serious problem in many countries. (a, an, the or –)", "a": ["-"], "e": "Uncountable noun in general: no article."},
+ {"t": "gap", "q": "It was ___ best holiday of my life. (a, an, the or –)", "a": ["the"], "e": "Superlative: the best."},
+ {"t": "gap", "q": "My brother is ___ doctor in a public hospital. (a, an, the or –)", "a": ["a"], "e": "Jobs need a/an."},
+ {"t": "gap", "q": "___ sun rises in the east. (a, an, the or –)", "a": ["the"], "e": "Unique things take 'the'."},
+ {"t": "gap", "q": "We usually have ___ lunch at one o'clock. (a, an, the or –)", "a": ["-"], "e": "Meals take no article."},
+ {"t": "spot", "q": "People should respect the nature more.", "a": ["the"], "fix": "People should respect nature more.", "e": "Nature in general: no article."},
+ {"t": "spot", "q": "It was an unique opportunity for me.", "a": ["an"], "fix": "It was a unique opportunity for me.", "e": "'Unique' begins with a /j/ sound, so 'a'."},
+ {"t": "spot", "q": "I think that the money cannot buy happiness.", "a": ["the"], "fix": "I think that money cannot buy happiness.", "e": "Money in general: no article."},
+ {"t": "spot", "q": "Last year I visited the Colombia with my family.", "a": ["the"], "fix": "Last year I visited Colombia with my family.", "e": "Most country names take no article."},
+ {"t": "tr", "q": "The life is hard without the friends.", "hint": "Correct the sentence.", "a": ["Life is hard without friends."], "e": "Both nouns are general: no article."},
+ {"t": "tr", "q": "She is best student in class.", "hint": "Correct the sentence.", "a": ["She is the best student in the class.", "She is the best student in class."], "e": "Superlatives need 'the'."},
+ {"t": "tr", "q": "My father is engineer and my mother is nurse.", "hint": "Correct the sentence.", "a": ["My father is an engineer and my mother is a nurse."], "e": "Jobs need a/an."}
+]

@@ -1,0 +1,22 @@
+[
+ {"t": "mc", "q": "I ___ to Cartagena three times, and I would love to go again.", "o": ["went", "have been", "was going", "had gone"], "a": 1, "e": "Life experience with no finished time: present perfect."},
+ {"t": "mc", "q": "We ___ the report last Friday.", "o": ["have finished", "finished", "have been finishing", "finish"], "a": 1, "e": "'Last Friday' is a finished time: past simple."},
+ {"t": "mc", "q": "She ___ in Bogotá since 2015.", "o": ["lives", "is living", "has lived", "lived"], "a": 2, "e": "'Since' + a state that continues now: present perfect."},
+ {"t": "mc", "q": "When ___ your degree?", "o": ["have you finished", "did you finish", "you finished", "have you been finishing"], "a": 1, "e": "'When' asks about a finished moment: past simple."},
+ {"t": "mc", "q": "The number of cyclists ___ sharply over the past decade.", "o": ["rose", "has risen", "rises", "was rising"], "a": 1, "e": "'Over the past decade' reaches the present: present perfect."},
+ {"t": "mc", "q": "In 2010, the company ___ 200 people.", "o": ["has employed", "employed", "has been employing", "employs"], "a": 1, "e": "A finished year: past simple."},
+ {"t": "mc", "q": "I can't go out. I ___ my homework yet.", "o": ["didn't finish", "haven't finished", "don't finish", "hadn't finished"], "a": 1, "e": "'Yet' with a present result: present perfect."},
+ {"t": "gap", "q": "How long ___ (you / know) your best friend?", "a": ["have you known"], "e": "'How long' up to now: present perfect. 'Know' is a state verb, so no -ing."},
+ {"t": "gap", "q": "My grandfather ___ (die) ten years ago.", "a": ["died"], "e": "'Ago' always takes the past simple."},
+ {"t": "gap", "q": "This is the best book I ___ (ever / read).", "a": ["have ever read", "'ve ever read"], "e": "Superlative + ever: present perfect."},
+ {"t": "gap", "q": "Unemployment ___ (fall) by 2% between 2015 and 2018.", "a": ["fell"], "e": "A finished period in the past: past simple."},
+ {"t": "gap", "q": "I ___ (work) here for six months, and I still love it.", "a": ["have worked", "have been working", "'ve worked", "'ve been working"], "e": "Started in the past and continues: present perfect (simple or continuous)."},
+ {"t": "gap", "q": "She ___ (just / send) the email, so check your inbox.", "a": ["has just sent", "'s just sent"], "e": "'Just' + a present result: present perfect."},
+ {"t": "spot", "q": "I have visited my cousins last weekend.", "a": ["have", "visited"], "fix": "I visited my cousins last weekend.", "e": "'Last weekend' is finished, so past simple."},
+ {"t": "spot", "q": "She works in this company since January.", "a": ["works"], "fix": "She has worked in this company since January.", "e": "'Since' needs the present perfect, not the present simple."},
+ {"t": "spot", "q": "I know Maria since we were children.", "a": ["know"], "fix": "I have known Maria since we were children.", "e": "Conozco a María desde... → I have known."},
+ {"t": "spot", "q": "Scientists have discovered penicillin in 1928.", "a": ["have", "discovered"], "fix": "Scientists discovered penicillin in 1928.", "e": "A date makes the time finished: past simple."},
+ {"t": "tr", "q": "I started studying English in 2020, and I still study it.", "hint": "Rewrite with 'since'. Begin: I have ...", "a": ["I have studied English since 2020.", "I have been studying English since 2020."], "e": "Present perfect + since + starting point."},
+ {"t": "tr", "q": "The last time I saw her was in March.", "hint": "Begin: I haven't ...", "a": ["I haven't seen her since March."], "e": "Negative present perfect + since."},
+ {"t": "tr", "q": "He moved to Spain three years ago and he still lives there.", "hint": "Rewrite with 'for'. Begin: He has ...", "a": ["He has lived in Spain for three years.", "He has been living in Spain for three years."], "e": "Present perfect + for + length of time."}
+]

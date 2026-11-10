@@ -1,0 +1,494 @@
+[
+ {
+  "id": 1,
+  "title": "Present perfect vs past simple",
+  "short": "I have seen / I saw — finished time or a link to now?",
+  "minutes": 10,
+  "rule": [
+   {"h": "The one question to ask", "items": [
+    "Before you choose a tense, ask: **is the time finished, or does it still touch the present?**",
+    "• **Past simple** = a finished time. You say when, or the listener already knows when: _yesterday, last year, in 2019, two days ago, when I was a child_.",
+    "• **Present perfect** (have/has + past participle) = a link to now. The time is not finished, not mentioned, or the result matters now."
+   ]},
+   {"h": "Three uses of the present perfect", "items": [
+    "• **Unfinished time or state:** I **have lived** here **since** 2019. She **has worked** there **for** three years (she still does).",
+    "• **Life experience, no date:** I **have been** to Peru twice. **Have** you ever **eaten** sushi?",
+    "• **Recent news or result:** I **have just finished**. He **hasn't arrived yet**. Prices **have risen** recently.",
+    "The moment you add a finished time, switch to the past simple: I have been to Peru. I **went** there **in 2022**."
+   ]},
+   {"h": "Why Spanish speakers slip", "items": [
+    "• Spanish uses the present for an action that started in the past and continues: _Vivo aquí desde 2019_. English cannot. **Not** 'I live here since 2019' but 'I **have lived** here since 2019'.",
+    "• _Llevo tres años trabajando aquí_ becomes 'I **have been working** here for three years', never 'I am working here for three years'.",
+    "• In Colombian Spanish the simple past is common for recent events (_ya terminé_). In formal written English, with _just, already, yet, ever, never, so far, recently_, use the present perfect.",
+    "• Questions with **When...?** ask for a finished time, so they take the past simple: When **did** you arrive?"
+   ]},
+   {"h": "Signal words", "items": [
+    "• **Past simple:** yesterday, last week, in 2015, ago, when..., between 2010 and 2015.",
+    "• **Present perfect:** since, for (up to now), so far, recently, in recent years, over the past decade, already, yet, just, ever, never, this is the first time.",
+    "• **for** works with both: I lived there for two years (finished). I have lived here for two years (still true)."
+   ]},
+   {"h": "In the IELTS exam", "items": [
+    "• Task 1: years that are over take the past simple: 'Sales **rose** in 2015'. A period that reaches the present takes the present perfect: 'Sales **have risen** since 2015'.",
+    "• Task 2: use the present perfect to introduce a current trend: 'In recent years, online learning **has become** more popular.'"
+   ]}
+  ],
+  "pairs": [
+   {"w": "I have seen him yesterday.", "r": "I saw him yesterday.", "n": "'Yesterday' is a finished time, so past simple."},
+   {"w": "I live here since 2019.", "r": "I have lived here since 2019.", "n": "Started in the past and still true: present perfect, not present simple."},
+   {"w": "She is working here for three years.", "r": "She has been working here for three years.", "n": "'Lleva tres años trabajando' = has been working."},
+   {"w": "When have you arrived?", "r": "When did you arrive?", "n": "'When' asks for a finished moment."},
+   {"w": "In recent years, pollution increased a lot.", "r": "In recent years, pollution has increased a lot.", "n": "'In recent years' reaches the present."},
+   {"w": "I didn't finish my essay yet.", "r": "I haven't finished my essay yet.", "n": "'Yet' goes with the present perfect in formal English."},
+   {"w": "It is the first time I visit London.", "r": "It is the first time I have visited London.", "n": "After 'the first/second time', use the present perfect."},
+   {"w": "I have been to Madrid in 2021.", "r": "I went to Madrid in 2021.", "n": "A date makes the time finished."}
+  ],
+  "check": [
+   {"t": "mc", "q": "She ___ in this company since 2020.", "o": ["works", "is working", "has worked", "worked"], "a": 2, "e": "'Since 2020' up to now: present perfect."},
+   {"t": "mc", "q": "We ___ to Cartagena last December.", "o": ["have gone", "went", "have been", "go"], "a": 1, "e": "'Last December' is finished: past simple."},
+   {"t": "mc", "q": "The number of users ___ sharply over the past five years.", "o": ["has grown", "grew", "grows", "was growing"], "a": 0, "e": "'Over the past five years' reaches the present: present perfect."}
+  ]
+ },
+ {
+  "id": 2,
+  "title": "Past perfect and narrative tenses",
+  "short": "had done / was doing / did — putting past events in order.",
+  "minutes": 10,
+  "rule": [
+   {"h": "Three tenses, three jobs", "items": [
+    "When you tell a story or describe past data, each tense has a job:",
+    "• **Past simple** (did): the main events, in order. 'He opened the door, took off his coat and sat down.'",
+    "• **Past continuous** (was/were doing): the background, or an action in progress that another action interrupts. 'I **was cooking** when the phone **rang**.'",
+    "• **Past perfect** (had done): an action that happened **before** another past moment. 'When we arrived, the film **had started**.'"
+   ]},
+   {"h": "Past perfect = the past of the past", "items": [
+    "Use it only when you need to show that one past action was earlier than another.",
+    "• 'When I got home, my sister **cooked** dinner' = she started cooking after I arrived.",
+    "• 'When I got home, my sister **had cooked** dinner' = dinner was ready before I arrived.",
+    "• Common with: **by the time, already, before, after, by 1990, never ... before**.",
+    "• **Past perfect continuous** (had been doing) shows how long something had been in progress: 'She was tired because she **had been working** all night.'",
+    "• In reported speech the tense moves back: 'I have lost my keys' → She said she **had lost** her keys."
+   ]},
+   {"h": "Why Spanish speakers slip", "items": [
+    "• The Spanish imperfect (_jugaba, vivía_) is **not** the past continuous. For past habits use the past simple or **used to**: 'When I was a child, I **played** / **used to play** football every day', not 'I was playing'.",
+    "• State verbs (_know, want, believe, like, need, belong, understand_) do not take -ing: 'I **knew** the answer', not 'I was knowing'.",
+    "• Do not use the past continuous for a list of finished events: 'Yesterday I **went** to the gym and then **had** dinner.'",
+    "• Do not overuse the past perfect. A simple sequence with _then, after that, next_ only needs the past simple."
+   ]},
+   {"h": "In the IELTS exam", "items": [
+    "• Task 1: 'By 2010, the figure **had doubled**.' 'Sales **had been falling** for three years before they recovered in 2018.'",
+    "• Task 2 examples from the past: 'Before the internet **existed**, people **had relied** on libraries for information.'"
+   ]}
+  ],
+  "pairs": [
+   {"w": "When I arrived, the film already started.", "r": "When I arrived, the film had already started.", "n": "The film started before I arrived: past perfect."},
+   {"w": "I was knowing the answer.", "r": "I knew the answer.", "n": "'Know' is a state verb: no continuous form."},
+   {"w": "When I was a child, I was playing football every day.", "r": "When I was a child, I played football every day.", "n": "Past habit (Spanish imperfect) = past simple or 'used to'."},
+   {"w": "While I cooked, the phone was ringing.", "r": "While I was cooking, the phone rang.", "n": "Long background action = continuous; short interrupting event = simple."},
+   {"w": "She said that she has lost her passport.", "r": "She said that she had lost her passport.", "n": "Reported speech moves back one tense."},
+   {"w": "He was tired because he worked all day.", "r": "He was tired because he had been working all day.", "n": "The work came before the tiredness and lasted some time."},
+   {"w": "Yesterday I was going to the gym and after I was having dinner.", "r": "Yesterday I went to the gym and afterwards I had dinner.", "n": "Finished events in sequence take the past simple."}
+  ],
+  "check": [
+   {"t": "mc", "q": "By the time we reached the station, the train ___.", "o": ["left", "had left", "has left", "was leaving"], "a": 1, "e": "The train left before we arrived: past perfect."},
+   {"t": "mc", "q": "I ___ a shower when the lights went out.", "o": ["had", "was having", "had had", "have had"], "a": 1, "e": "An action in progress, interrupted: past continuous."},
+   {"t": "mc", "q": "As a teenager, I ___ to school by bus every day.", "o": ["was going", "had gone", "went", "have gone"], "a": 2, "e": "A past habit takes the past simple (or 'used to go')."}
+  ]
+ },
+ {
+  "id": 3,
+  "title": "Articles: a, an, the and no article",
+  "short": "The life is hard? When English drops the article that Spanish keeps.",
+  "minutes": 10,
+  "rule": [
+   {"h": "The basic choice", "items": [
+    "• **a / an** = one of many, not yet identified, or mentioned for the first time: 'I bought **a** laptop.'",
+    "• **the** = both of us know which one: mentioned before, unique, or made specific: 'I bought a laptop. **The** laptop was expensive.' '**the** sun', '**the** government', '**the** people who live here'.",
+    "• **no article** = things in general, with plural nouns and uncountable nouns: '**Life** is hard.' '**Children** need **love**.'"
+   ]},
+   {"h": "The biggest trap: general statements", "items": [
+    "Spanish uses the definite article for general ideas: _La vida es dura. Me gusta la música. Los jóvenes usan demasiado el móvil._ English uses **no article**:",
+    "• **Life** is hard. I like **music**. **Young people** use their phones too much.",
+    "• Abstract nouns in general: **education, health, money, pollution, technology, society, unemployment, nature, crime**.",
+    "• Add **the** only when the noun becomes specific: '**The** education **that I received** was excellent.' '**The** pollution **in Bogotá**...'"
+   ]},
+   {"h": "a or an? Jobs and singular nouns", "items": [
+    "• A singular countable noun can never stand alone. Spanish says _Soy ingeniera_; English says 'I am **an** engineer.' 'She works as **a** teacher.'",
+    "• Choose a/an by **sound**, not spelling: **an** hour, **an** honest man, **an** MBA; **a** university, **a** European country, **a** one-way street."
+   ]},
+   {"h": "Fixed patterns worth memorising", "items": [
+    "• **No article:** countries and cities (Colombia, London), languages (speak English), meals (have lunch), sports (play football), 'last / next' + time (last year, next week), go to bed / school / work / university, by bus, at home.",
+    "• **the:** superlatives (the best), ordinals (the first), rivers, seas, mountain ranges and plural countries (the Amazon, the Pacific, the Andes, the United States, the UK), the same, the environment, the internet, the majority of, play the piano.",
+    "• In Task 1: '**the** number of', '**the** percentage of', '**the** figure for'. But '**a** rise in', '**an** increase of 5%'."
+   ]}
+  ],
+  "pairs": [
+   {"w": "The life is hard in big cities.", "r": "Life is hard in big cities.", "n": "General idea: no article."},
+   {"w": "My mother is teacher.", "r": "My mother is a teacher.", "n": "Jobs need a/an."},
+   {"w": "I think the money cannot buy the happiness.", "r": "I think money cannot buy happiness.", "n": "Abstract nouns in general: no article."},
+   {"w": "She studied in an university in Cali.", "r": "She studied in a university in Cali.", "n": "'University' starts with a /j/ sound, so 'a'."},
+   {"w": "The last year I visited the Colombia.", "r": "Last year I visited Colombia.", "n": "No article with 'last year' or most country names."},
+   {"w": "The people should protect the nature.", "r": "People should protect nature.", "n": "People and nature in general: no article."},
+   {"w": "He is best player in team.", "r": "He is the best player in the team.", "n": "Superlatives and specific nouns take 'the'."},
+   {"w": "I waited for a hour.", "r": "I waited for an hour.", "n": "Silent h: vowel sound, so 'an'."}
+  ],
+  "check": [
+   {"t": "mc", "q": "___ education is the key to reducing poverty.", "o": ["The", "An", "– (no article)", "A"], "a": 2, "e": "Education in general: no article."},
+   {"t": "mc", "q": "My brother works as ___ accountant.", "o": ["– (no article)", "a", "an", "the"], "a": 2, "e": "Jobs need an article; 'accountant' starts with a vowel sound."},
+   {"t": "mc", "q": "___ number of tourists rose sharply in 2019.", "o": ["A", "The", "– (no article)", "An"], "a": 1, "e": "'The number of' is a fixed pattern (and takes a singular verb)."}
+  ]
+ },
+ {
+  "id": 4,
+  "title": "Countable and uncountable nouns",
+  "short": "An advice, informations, much people — nouns that have no plural in English.",
+  "minutes": 10,
+  "rule": [
+   {"h": "The difference", "items": [
+    "• **Countable** nouns have a singular and a plural and can take a/an and numbers: a car, two cars, many cars.",
+    "• **Uncountable** nouns have **no plural**, never take **a/an**, and take a **singular verb**: 'The information **is** useful.'"
+   ]},
+   {"h": "The list that causes most errors", "items": [
+    "These are countable in Spanish (_un consejo, las informaciones, los muebles_) but **uncountable in English**:",
+    "• **advice, information, news, furniture, equipment, luggage, homework, research, knowledge, evidence, progress, traffic, software, accommodation, behaviour, work** (= trabajo in general), **money, weather**.",
+    "• To count them, add a unit: **a piece of** advice / information / furniture / news / evidence; **an item of** luggage.",
+    "• Or change the noun: research → **a study**; work → **a job**; luggage → **a suitcase**; accommodation → **a flat**.",
+    "• **News** looks plural but is singular: 'The news **is** good.'",
+    "• **People** is the opposite: it is plural and countable: 'many people **are**', not 'much people is'."
+   ]},
+   {"h": "Quantity words", "items": [
+    "• **Countable only:** many, (a) few, fewer, several, a number of, how many.",
+    "• **Uncountable only:** much, (a) little, less, an amount of, how much.",
+    "• **Both:** some, any, a lot of, plenty of, most, enough, more.",
+    "• **few / little** = not enough (negative). **a few / a little** = some (positive): 'I have **little** time' (almost none) vs 'I have **a little** time' (some).",
+    "• Formal writing: **fewer** people, **less** traffic; **the number of** cars, **the amount of** pollution."
+   ]},
+   {"h": "Nouns with two lives", "items": [
+    "Some nouns are uncountable in general and countable when they mean one example or type:",
+    "• experience (general skill) / an experience (one event); time / three times; paper / a paper (an article); business / a business (a company); work / a work of art.",
+    "• In Task 2, most abstract topics are uncountable: pollution, crime, unemployment, health, education, tourism, technology."
+   ]}
+  ],
+  "pairs": [
+   {"w": "Can you give me an advice?", "r": "Can you give me some advice?", "n": "Advice is uncountable. One = 'a piece of advice'."},
+   {"w": "I need more informations about the course.", "r": "I need more information about the course.", "n": "No plural."},
+   {"w": "We bought new furnitures.", "r": "We bought new furniture.", "n": "Uncountable. One = 'a piece of furniture'."},
+   {"w": "I have a good news.", "r": "I have some good news.", "n": "News is uncountable and singular."},
+   {"w": "There were much people at the concert.", "r": "There were many people at the concert.", "n": "People is plural and countable."},
+   {"w": "Less students chose history this year.", "r": "Fewer students chose history this year.", "n": "Fewer + countable plural; less + uncountable."},
+   {"w": "Many researches show this.", "r": "Many studies show this. / A lot of research shows this.", "n": "Research is uncountable."},
+   {"w": "The teacher gave us a lot of homeworks.", "r": "The teacher gave us a lot of homework.", "n": "No plural."}
+  ],
+  "check": [
+   {"t": "mc", "q": "She gave me ___ about the interview.", "o": ["an advice", "some advices", "some advice", "many advice"], "a": 2, "e": "Advice is uncountable: no 'an', no plural."},
+   {"t": "mc", "q": "How ___ people live in your city?", "o": ["much", "many", "a lot", "little"], "a": 1, "e": "People is a countable plural: many."},
+   {"t": "mc", "q": "The news about the economy ___ worrying.", "o": ["are", "is", "were", "have been"], "a": 1, "e": "News is singular."}
+  ]
+ },
+ {
+  "id": 5,
+  "title": "Dependent prepositions",
+  "short": "depend on, married to, arrive at — the preposition is part of the word.",
+  "minutes": 10,
+  "rule": [
+   {"h": "Learn the pair, not the word", "items": [
+    "Many verbs, adjectives and nouns are always followed by one particular preposition. There is rarely a logic to it, and translating from Spanish gives the wrong one (_depender de_ → depend **on**). Learn each one as a single unit.",
+    "After any preposition, a verb takes **-ing**: interested in **studying**, good at **solving**, look forward to **hearing**."
+   ]},
+   {"h": "Verb + preposition", "items": [
+    "• **on:** depend on, rely on, focus on, concentrate on, insist on, spend money on, be based on",
+    "• **in:** succeed in, believe in, result in, invest in, participate in, specialise in",
+    "• **of:** consist of, think of, dream of, approve of, accuse someone of",
+    "• **to:** listen to, belong to, lead to, contribute to, adapt to, object to, explain something **to** someone",
+    "• **for:** wait for, pay for, apply for, look for, ask for, search for",
+    "• **about:** think about, worry about, complain about, talk about",
+    "• **from:** suffer from, benefit from, differ from, prevent someone from, result from",
+    "• **with:** agree with, deal with, cope with, provide someone with"
+   ]},
+   {"h": "Adjective + preposition", "items": [
+    "• good / bad **at**; interested **in**; afraid / aware / proud / tired / capable / full **of**; responsible / famous / suitable **for**; married / similar / related / addicted / used **to**; different **from**; worried / excited / concerned **about**; satisfied / pleased / angry **with**; keen **on**."
+   ]},
+   {"h": "Verbs with NO preposition (Spanish adds one)", "items": [
+    "• **discuss** a problem (not 'discuss about'); **enter** a room (not 'enter in'); **ask** someone (not 'ask to someone'); **tell** someone; **call / phone** someone; **marry** someone; **reach** a place; **attend** a class; **answer** a question; **lack** something.",
+    "• **agree** is a verb: 'I agree', never 'I am agree'."
+   ]},
+   {"h": "Place and time", "items": [
+    "• **arrive at** a building or small place (the airport); **arrive in** a city or country (in Madrid). Never 'arrive to'.",
+    "• **at** 6 o'clock / the weekend / night; **on** Monday / 5 May / my birthday; **in** July / 2020 / the morning / summer.",
+    "• Task 1 pairs: an increase **in** sales (what changed) **of** 10% (how much); rise **from** 20 **to** 30; stand **at** 15%; **by** 5 points."
+   ]}
+  ],
+  "pairs": [
+   {"w": "It depends of the weather.", "r": "It depends on the weather.", "n": "depender de → depend on."},
+   {"w": "She is married with a doctor.", "r": "She is married to a doctor.", "n": "casada con → married to."},
+   {"w": "I am thinking in my future.", "r": "I am thinking about my future.", "n": "pensar en → think about / of."},
+   {"w": "The course consists in ten units.", "r": "The course consists of ten units.", "n": "consistir en → consist of."},
+   {"w": "We arrived to the hotel at night.", "r": "We arrived at the hotel at night.", "n": "Never 'arrive to'."},
+   {"w": "I am agree with you.", "r": "I agree with you.", "n": "'Agree' is a verb, not an adjective."},
+   {"w": "We discussed about the problem.", "r": "We discussed the problem.", "n": "'Discuss' takes a direct object."},
+   {"w": "He explained me the rule.", "r": "He explained the rule to me.", "n": "explain something TO someone."}
+  ],
+  "check": [
+   {"t": "mc", "q": "The result depends ___ several factors.", "o": ["of", "from", "on", "in"], "a": 2, "e": "depend on."},
+   {"t": "mc", "q": "She is interested ___ working abroad.", "o": ["in", "on", "for", "about"], "a": 0, "e": "interested in + -ing."},
+   {"t": "mc", "q": "Which sentence is correct?", "o": ["We discussed about the plan.", "We discussed the plan.", "We discussed on the plan.", "We discussed of the plan."], "a": 1, "e": "'Discuss' takes no preposition."}
+  ]
+ },
+ {
+  "id": 6,
+  "title": "Subject–verb agreement",
+  "short": "People is? She work? The third-person -s and tricky subjects.",
+  "minutes": 10,
+  "rule": [
+   {"h": "The rule", "items": [
+    "In the present simple, **he / she / it** and every singular noun take a verb with **-s**: 'She work**s**', 'The government spend**s**', 'It **has**', 'He **does**n't'.",
+    "The rule is easy to know and easy to forget while writing. It is one of the most frequent errors in IELTS scripts by Spanish speakers, because examiners notice it immediately. **Check every present-tense verb when you proofread.**"
+   ]},
+   {"h": "Find the real subject", "items": [
+    "The verb agrees with the **head noun**, not with the nearest noun:",
+    "• 'The **quality** of the products **has** improved.' (quality has, not products have)",
+    "• 'The **number** of cars **is** rising.' but '**A number of** cars **are** parked outside.' (a number of = several)",
+    "• '**One** of my friends **lives** in Madrid.'",
+    "• 'Children **who play** outside **are** healthier.' In a relative clause the verb agrees with the noun before who/which/that."
+   ]},
+   {"h": "Always singular", "items": [
+    "• **everyone, everybody, someone, anybody, no one, nobody, each, every** + noun: 'Everybody **knows**.' 'Each student **has** a laptop.'",
+    "• Uncountable nouns: 'The information **is**...', 'The news **is**...', 'Research **shows**...'",
+    "• An -ing phrase or a clause as subject: '**Eating** vegetables **is** healthy.' 'What they need **is** more time.'",
+    "• Amounts thought of as one quantity: 'Ten years **is** a long time.' 'Fifty dollars **is** too much.'"
+   ]},
+   {"h": "Always plural", "items": [
+    "• **people** (_la gente_ is singular in Spanish; **people** is plural in English): 'People **are**...', 'Many people **think**...'",
+    "• **police, children, men, women, the rich, the elderly**: 'The police **are** investigating.'",
+    "• Two subjects joined by **and**: 'Pollution and traffic **are** serious problems.'"
+   ]},
+   {"h": "There is / there are, and questions", "items": [
+    "• The verb agrees with the noun that follows: 'There **is** a problem.' 'There **are** many reasons.' Not 'There is many reasons.'",
+    "• Negatives and questions put the -s on the auxiliary: 'She **doesn't** like', '**Does** he work?' The main verb stays in the base form: not 'Does he works?'",
+    "• Past simple has no agreement, except **was / were**."
+   ]}
+  ],
+  "pairs": [
+   {"w": "People is more stressed today.", "r": "People are more stressed today.", "n": "'People' is plural (la gente → people are)."},
+   {"w": "My sister work in a bank.", "r": "My sister works in a bank.", "n": "Third-person singular -s."},
+   {"w": "He don't like coffee.", "r": "He doesn't like coffee.", "n": "he/she/it → doesn't."},
+   {"w": "Everybody are waiting.", "r": "Everybody is waiting.", "n": "everybody / everyone are singular."},
+   {"w": "There is many reasons for this.", "r": "There are many reasons for this.", "n": "The verb agrees with 'reasons'."},
+   {"w": "The number of students have increased.", "r": "The number of students has increased.", "n": "The subject is 'the number'."},
+   {"w": "One of my friends live in Spain.", "r": "One of my friends lives in Spain.", "n": "The subject is 'one'."},
+   {"w": "Does she works here?", "r": "Does she work here?", "n": "After does, the base form."}
+  ],
+  "check": [
+   {"t": "mc", "q": "Many people ___ that technology makes life easier.", "o": ["believes", "believe", "is believing", "has believed"], "a": 1, "e": "'People' is plural."},
+   {"t": "mc", "q": "The quality of public services ___ declined.", "o": ["have", "are", "has", "were"], "a": 2, "e": "The subject is 'quality' (singular)."},
+   {"t": "mc", "q": "Everyone in my family ___ English.", "o": ["speak", "speaks", "are speaking", "have spoken"], "a": 1, "e": "'Everyone' takes a singular verb."}
+  ]
+ },
+ {
+  "id": 7,
+  "title": "Relative clauses",
+  "short": "who, which, that, whose, where — and when commas matter.",
+  "minutes": 10,
+  "rule": [
+   {"h": "What they do", "items": [
+    "A relative clause adds information about a noun and lets you join two short sentences into one: 'I met a woman. She speaks five languages.' → 'I met a woman **who speaks five languages**.' Examiners look for them as evidence of complex grammar.",
+    "• **who** = people · **which** = things · **that** = people or things (defining clauses only)",
+    "• **whose** = possession (_cuyo_): 'the student **whose** essay won'",
+    "• **where** = place · **when** = time · **why** after 'the reason'"
+   ]},
+   {"h": "Spanish 'que' is not always 'that'", "items": [
+    "Spanish uses _que_ for nearly everything. English makes you choose:",
+    "• People → **who** (or that): 'the teacher **who** helped me', not 'the teacher which'.",
+    "• Things → **which / that**: 'the film **which** we saw', not 'the film who'.",
+    "• **what** is not a relative pronoun after a noun. It means 'the thing that': 'I like **what** you said.' But 'the book **that** I read', not 'the book what I read'. And 'everything **that**', 'all **that**', not 'all what'."
+   ]},
+   {"h": "Defining and non-defining", "items": [
+    "• **Defining** (no commas): tells us which one. 'Students **who study regularly** get better results.' You can use _that_, and you can omit the pronoun when it is the object: 'The book **(that) I bought** is excellent.'",
+    "• **Non-defining** (commas): adds extra information about something already identified. 'My father**, who is 70,** still works.' You **cannot** use _that_ and you cannot omit the pronoun.",
+    "• **, which** can refer to the whole previous idea: 'He failed the exam**, which** surprised everyone.' (Spanish: _lo cual_)"
+   ]},
+   {"h": "Three typical errors", "items": [
+    "• **Repeating the pronoun:** 'the book that I told you about **it**' → 'the book that I told you about'. The relative pronoun already replaces 'it'.",
+    "• **where + preposition:** 'the city where I live **in**' → 'the city where I live' or 'the city which I live in'.",
+    "• **'the reason because'** → 'the reason **why**'."
+   ]},
+   {"h": "In the IELTS exam", "items": [
+    "• Task 2: 'People **who work from home** save time, **which** improves their quality of life.'",
+    "• Task 1: 'Northfield, **which had the lowest figure in 2000**, overtook both other towns by 2020.'",
+    "• Formal quantity structures: 'There were three options, **none of which** was cheap.' 'She has two brothers, **both of whom** are engineers.'"
+   ]}
+  ],
+  "pairs": [
+   {"w": "The teacher which helped me was Mr López.", "r": "The teacher who helped me was Mr López.", "n": "People take who (or that)."},
+   {"w": "The film who we saw was boring.", "r": "The film which we saw was boring.", "n": "Things take which or that."},
+   {"w": "This is the book that I told you about it.", "r": "This is the book that I told you about.", "n": "Do not repeat the object."},
+   {"w": "My mother, that is a nurse, works at night.", "r": "My mother, who is a nurse, works at night.", "n": "No 'that' after a comma."},
+   {"w": "I don't understand that you mean.", "r": "I don't understand what you mean.", "n": "'What' = the thing that."},
+   {"w": "That is the reason because I left.", "r": "That is the reason why I left.", "n": "the reason why."},
+   {"w": "All what I need is time.", "r": "All that I need is time.", "n": "all that / everything that, not 'all what'."},
+   {"w": "I met a man who his wife is a pilot.", "r": "I met a man whose wife is a pilot.", "n": "Possession = whose."}
+  ],
+  "check": [
+   {"t": "mc", "q": "The people ___ live next door are very quiet.", "o": ["which", "who", "whose", "what"], "a": 1, "e": "People take who."},
+   {"t": "mc", "q": "Bogotá, ___ is the capital, is very high.", "o": ["that", "what", "which", "where"], "a": 2, "e": "Non-defining clause (commas): which, never that."},
+   {"t": "mc", "q": "She is the writer ___ book won the prize.", "o": ["who", "which", "that", "whose"], "a": 3, "e": "Possession: whose book."}
+  ]
+ },
+ {
+  "id": 8,
+  "title": "Conditionals 0–3 and mixed",
+  "short": "If I will? If I would have? Getting both halves right.",
+  "minutes": 10,
+  "rule": [
+   {"h": "The four patterns", "items": [
+    "• **Zero** (always true): if + present, present. 'If you heat ice, it **melts**.'",
+    "• **First** (real future possibility): if + present, **will** + verb. 'If it **rains**, we **will stay** at home.'",
+    "• **Second** (unreal or unlikely now/future): if + past simple, **would** + verb. 'If I **had** more time, I **would learn** Italian.'",
+    "• **Third** (unreal past, regret): if + past perfect, **would have** + past participle. 'If she **had studied**, she **would have passed**.'"
+   ]},
+   {"h": "The golden rule", "items": [
+    "**No will or would in the if-clause.** The if-clause uses a present or past form, even when it talks about the future.",
+    "• Not 'If I **will have** time' → 'If I **have** time, I will call you.'",
+    "• Not 'If I **would be** rich' → 'If I **were** rich, I would travel.' (Spanish uses a subjunctive, _si fuera_; English uses the past simple.)",
+    "• Not 'If I **would have known**' → 'If I **had known**, I would have helped.'",
+    "• Second conditional with _be_: formal English prefers **were** for all persons: 'If I **were** you...', 'If he **were** here...'"
+   ]},
+   {"h": "Mixed conditionals", "items": [
+    "Mix the patterns when the times are different:",
+    "• Past condition → present result: 'If I **had taken** that job, I **would be living** in London now.'",
+    "• Present condition → past result: 'If I **spoke** German, I **would have applied** for the job.'"
+   ]},
+   {"h": "Other words for 'if'", "items": [
+    "• **unless** = if ... not. It already contains the negative: '**Unless** you study, you will fail', not 'Unless you don't study'.",
+    "• **provided that / as long as** = only if. **in case** = because it might happen.",
+    "• **when** = it is certain; **if** = it is possible.",
+    "• Modals can replace will/would: **can, may, might, could, should**: 'If prices fall, more people **might** travel.'",
+    "• Punctuation: comma when the if-clause comes first. No comma when it comes second."
+   ]},
+   {"h": "In the IELTS exam", "items": [
+    "Task 2 is full of conditionals; one accurate sentence of each type raises your grammar range:",
+    "• 'If governments **invest** in public transport, pollution **will fall**.'",
+    "• 'If cars **were banned** from city centres, the air **would be** cleaner.'",
+    "• 'If action **had been taken** earlier, the damage **would have been** smaller.'"
+   ]}
+  ],
+  "pairs": [
+   {"w": "If I will see her, I will tell her.", "r": "If I see her, I will tell her.", "n": "No 'will' after if."},
+   {"w": "If I would be rich, I would buy a house.", "r": "If I were rich, I would buy a house.", "n": "No 'would' after if: use the past simple."},
+   {"w": "If I would have known, I would have come.", "r": "If I had known, I would have come.", "n": "Third conditional: if + past perfect."},
+   {"w": "If she had studied, she would pass the exam last week.", "r": "If she had studied, she would have passed the exam last week.", "n": "Past result: would have + participle."},
+   {"w": "Unless you don't hurry, you will be late.", "r": "Unless you hurry, you will be late.", "n": "'Unless' is already negative."},
+   {"w": "If I am you, I will accept.", "r": "If I were you, I would accept.", "n": "Giving advice = second conditional."},
+   {"w": "If people uses less plastic, the oceans would be cleaner.", "r": "If people used less plastic, the oceans would be cleaner.", "n": "would in the result → past simple in the if-clause."}
+  ],
+  "check": [
+   {"t": "mc", "q": "If the government ___ taxes, people will spend less.", "o": ["will raise", "raises", "would raise", "raised"], "a": 1, "e": "First conditional: if + present."},
+   {"t": "mc", "q": "If I ___ more free time, I would do more sport.", "o": ["have", "would have", "had", "will have"], "a": 2, "e": "Second conditional: if + past simple."},
+   {"t": "mc", "q": "If we had booked earlier, we ___ less.", "o": ["would pay", "will pay", "paid", "would have paid"], "a": 3, "e": "Third conditional: would have + past participle."}
+  ]
+ },
+ {
+  "id": 9,
+  "title": "Passive voice",
+  "short": "was built, is being built, has been built — and when to use it.",
+  "minutes": 10,
+  "rule": [
+   {"h": "Form", "items": [
+    "**be** (in any tense) + **past participle**. The tense is shown by _be_; the participle never changes.",
+    "• Present simple: The beans **are roasted**.",
+    "• Past simple: The bridge **was built** in 1932.",
+    "• Present continuous: A new school **is being built**.",
+    "• Present perfect: Many jobs **have been lost**.",
+    "• Future / modal: The results **will be announced**. The problem **must be solved**.",
+    "Use **by** only when the doer matters: 'painted **by** Picasso'. Otherwise leave it out."
+   ]},
+   {"h": "When to use it", "items": [
+    "• The doer is unknown, obvious or unimportant: 'My bike **was stolen**.' 'He **was arrested**.'",
+    "• Describing a process (Task 1): 'The paper **is collected**, **sorted** and then **shredded**.'",
+    "• To sound objective in Task 2: 'It **is** often **argued** that...', 'Children **should be taught** to...'",
+    "English uses the passive far more than Spanish. Where Spanish uses _se_ (_se construyó, se dice que, se habla inglés_), English normally needs a passive: 'It **was built**', 'It **is said** that', 'English **is spoken**'."
+   ]},
+   {"h": "Typical errors", "items": [
+    "• **Forgetting 'be':** 'The house built in 1990' → 'The house **was** built in 1990.' 'It has cancelled' → 'It has **been** cancelled.'",
+    "• **Wrong participle:** 'was build' → 'was **built**'; 'is spoke' → 'is **spoken**'; 'was wrote' → 'was **written**'.",
+    "• **'I born':** it is passive in English: 'I **was born** in Cali.'",
+    "• **Intransitive verbs have no passive:** happen, occur, die, arrive, rise, fall, exist, appear, increase/decrease (as a trend). 'The accident **happened**', not 'was happened'. 'Prices **rose**', not 'were risen'.",
+    "• **by, not for or of:** 'written **by** a journalist'."
+   ]},
+   {"h": "Two useful advanced patterns", "items": [
+    "• Verbs with two objects: 'They gave me a book' → '**I was given** a book.' (More natural than 'A book was given to me'.)",
+    "• Reporting verbs (say, believe, think, expect, know): 'People say he is rich' → '**It is said that** he is rich' or '**He is said to be** rich.'"
+   ]},
+   {"h": "In the IELTS exam", "items": [
+    "• Task 1 process diagrams should be mostly passive, linked with _first, then, after that, once, finally_: '**Once** the beans **have been dried**, they **are transported** to the factory.'",
+    "• In Task 2, mix active and passive. A whole essay in the passive is heavy to read."
+   ]}
+  ],
+  "pairs": [
+   {"w": "The house was build in 1990.", "r": "The house was built in 1990.", "n": "be + past participle (build → built)."},
+   {"w": "I born in Medellín.", "r": "I was born in Medellín.", "n": "Always 'was/were born'."},
+   {"w": "The accident was happened at night.", "r": "The accident happened at night.", "n": "'Happen' has no passive."},
+   {"w": "The meeting has cancelled.", "r": "The meeting has been cancelled.", "n": "Perfect passive needs 'been'."},
+   {"w": "This book was written for a famous author.", "r": "This book was written by a famous author.", "n": "The doer takes 'by'."},
+   {"w": "It is spoken English in many countries.", "r": "English is spoken in many countries.", "n": "The thing affected is the subject."},
+   {"w": "A new stadium is building in my city.", "r": "A new stadium is being built in my city.", "n": "Continuous passive: is being + participle."},
+   {"w": "The prices were increased by 5% last year.", "r": "Prices increased by 5% last year.", "n": "Trends use the active: prices rise, fall, increase."}
+  ],
+  "check": [
+   {"t": "mc", "q": "The first metro line ___ in 1995.", "o": ["opened by", "was opened", "has opened", "was open"], "a": 1, "e": "Past simple passive: was + participle."},
+   {"t": "mc", "q": "After the beans are picked, they ___ in the sun.", "o": ["dry", "are dried", "are drying", "dried"], "a": 1, "e": "Process description: present simple passive."},
+   {"t": "mc", "q": "A serious accident ___ on the motorway yesterday.", "o": ["was happened", "has been happened", "happened", "was happening by"], "a": 2, "e": "'Happen' is intransitive: no passive."}
+  ]
+ },
+ {
+  "id": 10,
+  "title": "Linking words, punctuation and word forms",
+  "short": "despite / although, the comma splice, and economy / economic / economical.",
+  "minutes": 12,
+  "rule": [
+   {"h": "Three kinds of linker, three kinds of grammar", "items": [
+    "Linkers with the same meaning can need different grammar. The meaning is easy; the structure after them causes the errors.",
+    "• **Conjunction + clause** (subject + verb) in one sentence: **although, even though, while, whereas, because, since, so, but**. 'Although **it was** expensive, we bought it.'",
+    "• **Preposition + noun or -ing**: **despite, in spite of, because of, due to, as a result of**. 'Despite **the cost**, we bought it.' 'Because of **the rain**...'",
+    "• **Adverb between two sentences**: **However, Therefore, Moreover, In addition, Nevertheless, As a result, On the other hand, For example**. 'It was expensive. **However,** we bought it.'"
+   ]},
+   {"h": "The classic errors", "items": [
+    "• 'Despite **of**' → **despite** (but 'in spite **of**').",
+    "• 'Although ... **but**' → use one, not both. (Spanish _aunque ... pero_ does not transfer.)",
+    "• 'Because of + clause' → **because** it rained / **because of** the rain.",
+    "• '**In** the other hand' → **On** the other hand. 'In my point of view' → **From** my point of view / **In** my opinion. 'According to me' → **In my opinion**.",
+    "• Do not start every sentence with a linker. Two or three per paragraph is enough."
+   ]},
+   {"h": "Punctuation: the comma splice", "items": [
+    "Spanish joins complete sentences with commas. English does not. Two complete sentences need a **full stop**, a **semicolon**, or a **conjunction**.",
+    "• Wrong: 'Pollution is a big problem, it affects everyone.'",
+    "• Right: 'Pollution is a big problem. It affects everyone.' / '...a big problem**;** it affects everyone.' / '...a big problem **because** it affects everyone.'",
+    "• **However** is not a conjunction: 'I like tea**; however,** I prefer coffee.' or 'I like tea**. However,** I prefer coffee.' Never 'I like tea, however I prefer coffee.'",
+    "• Comma after an opening linker or clause: 'In addition**,** ...', 'If prices rise**,** ...', 'Although it was late**,** ...'",
+    "• No comma before **that**: 'I think that...' (not 'I think, that...'). No comma between subject and verb."
+   ]},
+   {"h": "Word forms", "items": [
+    "Using the wrong part of speech is counted under vocabulary and grammar. Check what the sentence position needs:",
+    "• After **a/an/the** or an adjective → **noun**: 'an **increase**', 'a serious **threat**', 'the **importance** of'.",
+    "• Before a noun, or after **be** → **adjective**: 'an **important** issue', 'It is **important**'.",
+    "• With a verb or before an adjective → **adverb**: 'rose **significantly**', '**highly** effective'.",
+    "• Useful families: economy / economic (of the economy) / economical (cheap to run) / economically · success / succeed / successful / successfully · benefit / beneficial · pollute / pollution / polluted · effect (noun) / affect (verb) · advice (noun) / advise (verb) · health / healthy · society / social.",
+    "• Task 1 gives you two ways to say everything: 'Sales **rose sharply**' (verb + adverb) = 'There was a **sharp rise** in sales' (adjective + noun)."
+   ]}
+  ],
+  "pairs": [
+   {"w": "Despite of the rain, we went out.", "r": "Despite the rain, we went out.", "n": "despite + noun, no 'of'."},
+   {"w": "Although it was late, but we continued.", "r": "Although it was late, we continued.", "n": "although OR but, never both."},
+   {"w": "In the other hand, cars are convenient.", "r": "On the other hand, cars are convenient.", "n": "Fixed phrase with 'on'."},
+   {"w": "I like the city, however I prefer the countryside.", "r": "I like the city; however, I prefer the countryside.", "n": "'However' cannot join two sentences with only a comma."},
+   {"w": "Technology is useful, it saves time.", "r": "Technology is useful because it saves time.", "n": "Comma splice: add a conjunction or use a full stop."},
+   {"w": "This is a very importance issue.", "r": "This is a very important issue.", "n": "Before a noun: adjective."},
+   {"w": "Pollution has a negative affect on health.", "r": "Pollution has a negative effect on health.", "n": "effect = noun; affect = verb."},
+   {"w": "She stayed at home because of she was ill.", "r": "She stayed at home because she was ill.", "n": "because + clause; because of + noun."}
+  ],
+  "check": [
+   {"t": "mc", "q": "___ the high price, the product sold well.", "o": ["Although", "Despite", "However", "Despite of"], "a": 1, "e": "Before a noun phrase: despite (no 'of')."},
+   {"t": "mc", "q": "Which sentence is punctuated correctly?", "o": ["Cars are fast, however they pollute.", "Cars are fast however, they pollute.", "Cars are fast. However, they pollute.", "Cars are fast, however, they pollute."], "a": 2, "e": "'However' starts a new sentence (or follows a semicolon) and takes a comma."},
+   {"t": "mc", "q": "The number of visitors rose ___ in 2019.", "o": ["dramatic", "dramatically", "drama", "dramatise"], "a": 1, "e": "An adverb describes the verb 'rose'."}
+  ]
+ }
+]

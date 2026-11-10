@@ -1,0 +1,22 @@
+[
+ {"t": "mc", "q": "People ___ more time online than ever before.", "o": ["spends", "spend", "is spending", "has spent"], "a": 1, "e": "'People' is plural."},
+ {"t": "mc", "q": "Everyone ___ to succeed.", "o": ["want", "wants", "are wanting", "have wanted"], "a": 1, "e": "'Everyone' takes a singular verb."},
+ {"t": "mc", "q": "The number of students ___ increased.", "o": ["have", "has", "are", "were"], "a": 1, "e": "The subject is 'the number' (singular)."},
+ {"t": "mc", "q": "A number of students ___ complained.", "o": ["has", "have", "is", "was"], "a": 1, "e": "'A number of' = several, so plural."},
+ {"t": "mc", "q": "My brother, like many of his friends, ___ in a bank.", "o": ["work", "works", "are working", "have worked"], "a": 1, "e": "The subject is 'my brother'; the phrase between commas does not change it."},
+ {"t": "mc", "q": "Each of the candidates ___ ten minutes to speak.", "o": ["have", "has", "are having", "were"], "a": 1, "e": "'Each' is singular."},
+ {"t": "mc", "q": "The police ___ investigating the case.", "o": ["is", "are", "was", "has"], "a": 1, "e": "'Police' is always plural."},
+ {"t": "gap", "q": "She ___ (not / like) spicy food.", "a": ["does not like", "doesn't like"], "e": "he/she/it → does not + base form."},
+ {"t": "gap", "q": "One of my friends ___ (live) in Madrid.", "a": ["lives"], "e": "The subject is 'one'."},
+ {"t": "gap", "q": "The news about the elections ___ (be) surprising.", "a": ["is", "was"], "e": "'News' is singular."},
+ {"t": "gap", "q": "Eating too much sugar ___ (cause) health problems.", "a": ["causes"], "e": "An -ing subject is singular."},
+ {"t": "gap", "q": "There ___ (be) many reasons for this trend.", "a": ["are"], "e": "The verb agrees with 'reasons'."},
+ {"t": "gap", "q": "What ___ (your sister / do) for a living?", "a": ["does your sister do"], "e": "Third-person question: does + subject + base form."},
+ {"t": "spot", "q": "The people in my town is very friendly.", "a": ["is"], "fix": "The people in my town are very friendly.", "e": "'People' is plural."},
+ {"t": "spot", "q": "He work in a hospital near the city centre.", "a": ["work"], "fix": "He works in a hospital near the city centre.", "e": "Third-person -s."},
+ {"t": "spot", "q": "Children who plays outside are usually healthier.", "a": ["plays"], "fix": "Children who play outside are usually healthier.", "e": "'Who' refers to 'children' (plural)."},
+ {"t": "spot", "q": "The quality of the products have improved.", "a": ["have"], "fix": "The quality of the products has improved.", "e": "The subject is 'quality'."},
+ {"t": "tr", "q": "She don't have enough time.", "hint": "Correct the sentence.", "a": ["She doesn't have enough time.", "She has not got enough time.", "She hasn't got enough time."], "e": "she → doesn't."},
+ {"t": "tr", "q": "All the people know the answer.", "hint": "Rewrite with the same meaning. Begin: Everybody ...", "a": ["Everybody knows the answer."], "e": "'Everybody' takes a singular verb."},
+ {"t": "tr", "q": "There is a lot of people in the street.", "hint": "Correct the sentence.", "a": ["There are a lot of people in the street."], "e": "The verb agrees with 'people' (plural)."}
+]

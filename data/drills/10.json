@@ -1,0 +1,22 @@
+[
+ {"t": "mc", "q": "___ the rain, we went for a walk.", "o": ["Although", "Despite", "However", "Even"], "a": 1, "e": "Before a noun: despite."},
+ {"t": "mc", "q": "___ it was raining, we went for a walk.", "o": ["Despite", "Although", "In spite", "However"], "a": 1, "e": "Before a clause (subject + verb): although."},
+ {"t": "mc", "q": "The plan is expensive. ___, it is the best option.", "o": ["Although", "However", "Despite", "Whereas"], "a": 1, "e": "A new sentence that contrasts: However + comma."},
+ {"t": "mc", "q": "Which sentence is punctuated correctly?", "o": ["I like tea, however I prefer coffee.", "I like tea; however, I prefer coffee.", "I like tea however, I prefer coffee.", "I like tea, however, I prefer coffee."], "a": 1, "e": "Semicolon (or full stop) before 'however', comma after it."},
+ {"t": "mc", "q": "Pollution is a serious ___ to public health.", "o": ["threaten", "threat", "threatening", "threatened"], "a": 1, "e": "After 'a serious' you need a noun."},
+ {"t": "mc", "q": "Tourism has grown ___ in recent years.", "o": ["significant", "significantly", "significance", "signify"], "a": 1, "e": "An adverb describes the verb."},
+ {"t": "mc", "q": "Some people prefer cities, ___ others prefer the countryside.", "o": ["however", "whereas", "despite", "nevertheless"], "a": 1, "e": "'Whereas' is a conjunction that contrasts two clauses in one sentence."},
+ {"t": "gap", "q": "The government should invest more in ___ (educate).", "a": ["education"], "e": "After a preposition: noun."},
+ {"t": "gap", "q": "There has been a ___ (drama) increase in prices.", "a": ["dramatic"], "e": "Before a noun: adjective."},
+ {"t": "gap", "q": "She passed the exam ___ (because / because of) her hard work.", "a": ["because of"], "e": "Before a noun phrase: because of."},
+ {"t": "gap", "q": "He was ill. ___ (Therefore / Although), he stayed at home.", "a": ["therefore"], "e": "'Therefore' links a result in a new sentence. 'Although' would need a second clause."},
+ {"t": "gap", "q": "It is ___ (importance) to protect the environment.", "a": ["important"], "e": "After 'It is': adjective."},
+ {"t": "gap", "q": "Prices rose ___ (rapid) between 2010 and 2015.", "a": ["rapidly"], "e": "Verb + adverb."},
+ {"t": "spot", "q": "Despite of the high cost, many people buy organic food.", "a": ["of"], "fix": "Despite the high cost, many people buy organic food.", "e": "despite + noun (no 'of')."},
+ {"t": "spot", "q": "Although it was late, but we continued working.", "a": ["but"], "fix": "Although it was late, we continued working.", "e": "although OR but, never both."},
+ {"t": "spot", "q": "This is a very importance issue for society.", "a": ["importance"], "fix": "This is a very important issue for society.", "e": "Before a noun you need the adjective."},
+ {"t": "spot", "q": "In the other hand, technology saves time.", "a": ["in"], "fix": "On the other hand, technology saves time.", "e": "The fixed phrase is 'on the other hand'."},
+ {"t": "tr", "q": "Although it was expensive, we bought it.", "hint": "Begin: Despite ...", "a": ["Despite the cost, we bought it.", "Despite the price, we bought it.", "Despite the expense, we bought it.", "Despite its cost, we bought it.", "Despite its price, we bought it.", "Despite the high price, we bought it.", "Despite the high cost, we bought it.", "Despite being expensive, we bought it.", "Despite it being expensive, we bought it.", "Despite the fact that it was expensive, we bought it."], "e": "despite + noun / -ing / the fact that."},
+ {"t": "tr", "q": "The number of cars increased significantly.", "hint": "Use a noun phrase. Begin: There was a ...", "a": ["There was a significant increase in the number of cars."], "e": "verb + adverb → adjective + noun: a significant increase in."},
+ {"t": "tr", "q": "It rained. We played football.", "hint": "Join with 'even though'. Begin: We played football ...", "a": ["We played football even though it rained.", "We played football even though it was raining."], "e": "even though + clause; no comma when it comes second."}
+]

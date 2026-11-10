@@ -1,0 +1,22 @@
+[
+ {"t": "mc", "q": "The woman ___ lives next door is a doctor.", "o": ["which", "who", "whose", "what"], "a": 1, "e": "People take who."},
+ {"t": "mc", "q": "That's the student ___ essay won the prize.", "o": ["who", "which", "whose", "that"], "a": 2, "e": "Possession: whose essay."},
+ {"t": "mc", "q": "The town ___ I was born is very small.", "o": ["which", "where", "that", "who"], "a": 1, "e": "Place + clause with its own subject: where."},
+ {"t": "mc", "q": "My father, ___ is 70, still works.", "o": ["that", "who", "which", "whose"], "a": 1, "e": "Non-defining clause about a person: who (never 'that' after a comma)."},
+ {"t": "mc", "q": "I didn't understand ___ he said.", "o": ["that", "what", "which", "who"], "a": 1, "e": "'What' = the thing that."},
+ {"t": "mc", "q": "The book ___ I bought yesterday is excellent.", "o": ["who", "what", "which", "where"], "a": 2, "e": "Things take which or that."},
+ {"t": "mc", "q": "He failed the exam, ___ surprised everyone.", "o": ["what", "that", "which", "who"], "a": 2, "e": "', which' refers to the whole previous idea."},
+ {"t": "gap", "q": "The people ___ live in this area are very friendly. (one word)", "a": ["who", "that"], "e": "Defining clause about people: who or that."},
+ {"t": "gap", "q": "2020 was the year ___ everything changed. (one word)", "a": ["when", "that"], "e": "Time: when."},
+ {"t": "gap", "q": "The company, ___ employs 500 people, is expanding. (one word)", "a": ["which"], "e": "Non-defining clause about a thing: which."},
+ {"t": "gap", "q": "She has two brothers, both of ___ are engineers. (one word)", "a": ["whom"], "e": "After 'both of / all of / none of' use whom (people) or which (things)."},
+ {"t": "gap", "q": "This is the reason ___ I left. (one word)", "a": ["why", "that"], "e": "the reason why."},
+ {"t": "gap", "q": "The man ___ car was stolen called the police. (one word)", "a": ["whose"], "e": "Possession: whose."},
+ {"t": "spot", "q": "The film who we saw last night was boring.", "a": ["who"], "fix": "The film which we saw last night was boring.", "e": "Things take which or that."},
+ {"t": "spot", "q": "This is the book that I told you about it.", "a": ["it"], "fix": "This is the book that I told you about.", "e": "'That' already stands for the book: do not repeat it."},
+ {"t": "spot", "q": "The teacher which helped me most was Mr Lopez.", "a": ["which"], "fix": "The teacher who helped me most was Mr Lopez.", "e": "People take who."},
+ {"t": "spot", "q": "I like people what are honest.", "a": ["what"], "fix": "I like people who are honest.", "e": "'What' cannot follow a noun."},
+ {"t": "tr", "q": "I met a woman. Her son is a pilot.", "hint": "Join with 'whose'. Begin: I met a woman ...", "a": ["I met a woman whose son is a pilot."], "e": "whose + noun replaces 'her son'."},
+ {"t": "tr", "q": "The hotel was very clean. We stayed there.", "hint": "Join with 'where'. Begin: The hotel ...", "a": ["The hotel where we stayed was very clean."], "e": "where replaces 'there'; do not add 'in'."},
+ {"t": "tr", "q": "Bogotá is the capital of Colombia. It has eight million inhabitants.", "hint": "Join with a non-defining clause. Begin: Bogotá, which ...", "a": ["Bogotá, which is the capital of Colombia, has eight million inhabitants.", "Bogotá, which has eight million inhabitants, is the capital of Colombia."], "e": "Extra information goes between commas with 'which'."}
+]

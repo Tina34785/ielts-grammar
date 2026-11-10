@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>IELTS Grammar Coach</title>
+<meta name="description" content="Personal IELTS Academic grammar, writing and reading practice.">
+<meta name="theme-color" content="#0f6b66">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="IELTS">
+<link rel="manifest" href="manifest.json">
+<link rel="apple-touch-icon" href="icons/icon-180.png">
+<link rel="icon" type="image/png" href="icons/icon-192.png">
+<link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+<header id="top">
+  <button id="back" aria-label="Back" hidden>‹</button>
+  <h1 id="title">IELTS Grammar Coach</h1>
+  <a id="gear" href="#/settings" aria-label="Settings">
+    <svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="12" r="3"/><path d="M12 2v3M12 19v3M2 12h3M19 12h3M4.9 4.9l2.1 2.1M17 17l2.1 2.1M4.9 19.1L7 17M17 7l2.1-2.1"/></svg>
+  </a>
+</header>
+<div id="banner" hidden></div>
+<main id="view"><p class="muted pad">Loading…</p></main>
+<nav id="tabs" aria-label="Sections">
+  <a href="#/home" data-tab="home"><svg viewBox="0 0 24 24"><path d="M4 20V10M10 20V4M16 20v-7M22 20H2"/></svg>Progress</a>
+  <a href="#/lessons" data-tab="lesson"><svg viewBox="0 0 24 24"><path d="M4 5a2 2 0 0 1 2-2h13v16H6a2 2 0 0 0-2 2zM8 7h7M8 11h7"/></svg>Learn</a>
+  <a href="#/write" data-tab="write"><svg viewBox="0 0 24 24"><path d="M4 20l1-5L16 4l4 4L9 19zM13 7l4 4"/></svg>Write</a>
+  <a href="#/read" data-tab="read"><svg viewBox="0 0 24 24"><path d="M5 3h14v18H5zM9 8h6M9 12h6M9 16h3"/></svg>Read</a>
+  <a href="#/review" data-tab="review"><svg viewBox="0 0 24 24"><path d="M4 12a8 8 0 0 1 14-5l2-2v6h-6l2-2a5 5 0 1 0 1 6"/></svg>Mistakes<span id="dueDot" hidden></span></a>
+</nav>
+<div id="toast" role="status" aria-live="polite"></div>
+<div id="modal"></div>
+<script src="js/version.js"></script>
+<script type="module" src="js/app.js"></script>
+</body>
+</html>
